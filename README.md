@@ -13,4 +13,5 @@ change <filename>/home/peter/webgrab/guide.xml</filename>
  in files https://raw.githubusercontent.com/peterbelt/xmltv/master/XMLTVID.md you find the tvg-id from the channels wich i use for the m3u8 files to identify the channel epg . for example 
  #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="ERT1" tvg-id="et1" 1tvg-logo="http://i.imgur.com/nbS3IKQ.png",ERT1 
 http://ertworld-lh.akamaihd.net/i/live_1@362313/master.m3u8
+for now you can use https://github.com/peterbelt/xmltv/blob/master/guide.xml  as you're epg url
 

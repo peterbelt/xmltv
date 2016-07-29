@@ -1,7 +1,7 @@
 ﻿#EXTM3U
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="ERT1" tvg-logo="http://i.imgur.com/nbS3IKQ.png",ERT1
 https://www.youtube.com/watch?v=VaviMC3KGtQ
-#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="ERT1" 1tvg-logo="http://i.imgur.com/nbS3IKQ.png",ERT1 BUP 
+#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="ERT1" 1tvg-logo="http://i.imgur.com/nbS3IKQ.png",ERT1
 http://38.140.63.250:1935/gr-live/et1.sdp/playlist.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ"tvg-id="ERT2" tvg-logo="http://i.imgur.com/gCFl7VI.png",ERT2
 https://www.youtube.com/watch?v=TyvdueFoCfA
@@ -51,11 +51,11 @@ rtsp://ewns-hls-p-stream.hexaglobe.net/rtpeuronewslive/gr_vidan350_rtp.sdp
 https://www.youtube.com/watch?v=rdlulSBQPp8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ"tvg-id="Ertw" tvg-logo="http://i.imgur.com/ZrD6GYb.png",ERT WORLD BUP
 rtmp://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-ertworld-hsslive-25f-4x3-SDh?PHPSESSID=8blpkkmbb990ekhc80gfht1cq3
-#EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/eScIdcT.png",RIK SAT
+#EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ"tvg-id="ΡΙΚ SAT" tvg-logo="http://i.imgur.com/eScIdcT.png",RIK SAT
 rtmp://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-riksat-hsslive-25f-4x3-SDh?PHPSESSID=8blpkkmbb990ekhc80gfht1cq3
-#EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/eScIdcT.png",RIK SAT BUP
+#EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ"tvg-id="ΡΙΚ SAT" tvg-logo="http://i.imgur.com/eScIdcT.png",RIK SAT BUP
 rtmp://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-wnn-hsslive-25f-4x3-SDh?PHPSESSID=8blpkkmbb990ekhc80gfht1cq3
-#EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="Alpha.cy"tvg-logo="http://i.imgur.com/IgnDjOU.png",ALPHA CY
+#EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="AlphaCY"tvg-logo="http://i.imgur.com/IgnDjOU.png",ALPHA CY
 https://www.youtube.com/watch?v=0khKa0_RnXk
 #EXTINF:0, group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="Sigma" tvg-id="Sigma" tvg-logo="http://i.imgur.com/BMvgdlc.png",SIGMA CY BUP
 http://81.21.47.74/hls/live.m3u8

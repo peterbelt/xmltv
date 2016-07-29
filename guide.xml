@@ -144,7 +144,7 @@
     <display-name lang="el">Madcy</display-name>
     <url>http://www.cyta.com.cy</url>
   </channel>
-  <channel id="Alpha">
+  <channel id="AlphaCY">
     <display-name lang="el">AlphaCY</display-name>
     <url>http://www.cyta.com.cy</url>
   </channel>
@@ -156,10 +156,6 @@
     <display-name lang="el">ΡΙΚ SAT</display-name>
     <url>http://www.cybc.com.cy</url>
   </channel>
-  <programme start="20160729103000 +0300" stop="20160729113000 +0300" channel="ALPHA">
-    <title lang="en">Από την Πόλη στην Ανατολή (Ε)</title>
-    <desc lang="en">Η καταξιωμένη σεφ μας προσκαλεί να γνωρίσουμε πόλεις και χωριά της Ασιατικής Τουρκίας μέσα από τον γαστρονομικό τους πλούτο. Σε κάθε προορισμό η Μαρία Εκμεκτσίογλου μας ξεναγεί σε περιοχές φυσικού κάλλους και χώρους πολιτιστικής αξίας, συνομιλεί με ντόπιους και ξεδιπλώνει το μαγειρικό της ταλέντο. Παρουσίαση: Μαρία Εκμεκτσίογλου(n)</desc>
-  </programme>
   <programme start="20160729113000 +0300" stop="20160729120000 +0300" channel="ALPHA">
     <title lang="en">Ειδήσεις</title>
     <desc lang="en">Παρακολουθήστε τις τελευταίες εξελίξεις σε εθνικό αλλά και διεθνές επίπεδο και ενημερωθείτε έγκαιρα και αντικειμενικά για τα σημαντικά ζητήματα της επικαιρότητας από την ειδησεογραφική ομάδα του Alpha TV(n)</desc>
@@ -1072,10 +1068,6 @@
     <title lang="en">Ο Ταλαντούχος Κύριος Ρίπλεϊ (The Talented Mr. Ripley)</title>
     <desc lang="en">Ξένη ταινία. Θρίλερ αμερικάνικης παραγωγής 1999. Νέα Υόρκη, τέλος της δεκαετίας του '50. Ένας εφοπλιστής ζητά από τον νεαρό κύριο Ρίπλεϊ να ταξιδέψει ως την Ιταλία, για να πείσει τον γιο του να επιστρέψει στην Αμερική. Ο φιλόδοξος Τομ Ρίπλεϊ γοητεύεται από το ανέμελο lifestyle της υψηλής κοινωνίας. Με τους: Ματ Ντέιμον, Τζουντ Λο, Γκουίνεθ Πάλτροου, Κέιτ Μπλάνσετ, Φίλιπ Σέιμουρ Χόφμαν. Σκηνοθεσία: Άντονι Μινγκέλα(n)</desc>
   </programme>
-  <programme start="20160729091500 +0300" stop="20160729113000 +0300" channel="E">
-    <title lang="en">Πρωινούλι</title>
-    <desc lang="en">Μία νέα εκπομπή έρχεται να σας ανοίξει την όρεξη με αγαπημένα και φρέσκα πρόσωπα, κέφι, πλούσια θεματολογία και αυθορμητισμό! Το μενού συνεχίζει με καθημερινές αστρολογικές προβλέψεις, προτάσεις ομορφιάς, συνταγές και πολλές εκπλήξεις. (ΤΠ)(n)</desc>
-  </programme>
   <programme start="20160729113000 +0300" stop="20160729144500 +0300" channel="E">
     <title lang="en">NAMASTE</title>
     <desc lang="en">Η Ναταλία Γερμανού μαζί με την παρέα της μας κρατάνε συντροφιά κάθε μεσημέρι. Διαφορετικές και πρωτότυπες ενότητες. Ευφάνταστα παιχνίδια και έξυπνα, προσαρμορμένα στους καλεσμένους, νέες ρουμπρίκες, αστεία στιγμιότυπα από την τηλεοπτική καθημερινότητα μας. (ΤΠ) Παρουσίαση: Έλενα Ασημακοπούλου, Χριστίνα Μουστάκα, Νίκος Γκάνος, Δημήτρης Μηλιόγλου, Παναγιώτης Ραφαηλίδης(n)</desc>
@@ -1167,10 +1159,6 @@
   <programme start="20160731200000 +0300" stop="20160801010000 +0300" channel="E">
     <title lang="en">Μπράβο Ρούλα</title>
     <desc lang="en">Ένα φαντασμαγορικό τηλεοπτικό show γεμάτο κέφι! Λαμπεροί καλεσμένοι, εκπλήξεις, συγκίνηση, παιχνίδια, γέλιο και νέα πρόσωπα που η μοναδική Ρούλα Κορομηλά θα συστήσει στο τηλεοπτικό κοινό. (ΤΠ) Παρουσίαση: Ρούλα Κορομηλά(n)</desc>
-  </programme>
-  <programme start="20160729090000 +0300" stop="20160729113000 +0300" channel="ART">
-    <title lang="en">Αλά Κ-ΑΡΤ</title>
-    <desc lang="en">Ψυχαγωγική-ενημερωτική εκπομπή. (ΤΠ) Παρουσίαση: Ελευθερία Νταβατζή, Κλάρα Ασημακοπούλου, Φένια Παλαιογιάννη, Φρόσω Σιδηροκαστρίτη(n)</desc>
   </programme>
   <programme start="20160729113000 +0300" stop="20160729130000 +0300" channel="ART">
     <title lang="en">Τα Νέα της Αγοράς</title>
@@ -2179,17 +2167,6 @@ Camper (αυτοκινούμενα οχήματα).
     <title lang="en">ΕΡΤ ΕΙΔΗΣΕΙΣ-ΕΡΤ ΑΘΛΗΤΙΚΑ- ΕΡΤ ΚΑΙΡΟΣ</title>
     <sub-title lang="en">Ειδήσεις - Υποκατηγορία : ΕΝΗΜΕΡΩΣΗ
 Αγνωστο</sub-title>
-  </programme>
-  <programme start="20160729103000 +0300" stop="20160729113000 +0300" channel="ERT2">
-    <title lang="en">ΝΗΣΤΙΚΟ ΑΡΚΟΥΔΙ  (ΕΡΤ ΑΡΧΕΙΟ)</title>
-    <sub-title lang="en">Γαστρονομία - Υποκατηγορία : ΝΤΟΚΙΜΑΝΤΕΡ
-Κατάλληλο για όλους
-Σκηνοθέτης: Γιάννης Κουφονίκος</sub-title>
-    <desc lang="en">Σουρεαλιστική εκπομπή μαγειρικής, η 
-οποία συνδυάζει το χιούμορ με εύκολες 
-λαχταριστές σπιτικές συνταγές που όλοι 
-θα ήθελαν να ξέρουν και όλοι θα 
-μπορέσουν να εκτελέσουν!(n)</desc>
   </programme>
   <programme start="20160729113000 +0300" stop="20160729130000 +0300" channel="ERT2">
     <title lang="en">ΜΕΝΟΥΜΕ ΕΛΛΑΔΑ</title>
@@ -4411,11 +4388,6 @@ Conservators, του τμήματος
     <sub-title lang="en">DIS0013847300</sub-title>
     <desc lang="en">Προβολή προϊόντων και ευκαιριών αγοράς στις πιο προσιτές τιμές που υπόσχονται να αλλάξουν τη ζωή σας(n)</desc>
   </programme>
-  <programme start="20160729110000 +0300" stop="20160729113000 +0300" channel="TV100">
-    <title lang="en">Πράσινα Κτίρια E3</title>
-    <sub-title lang="en">DIS0014044001</sub-title>
-    <desc lang="en">Επεισόδιο: Κατασκευή σπιτιού από άχυρο. Η πρωτοποριακή αυτή σειρά ντοκιμαντέρ προσπαθεί να εμπνεύσει τους ιδιοκτήτες σπιτιών, για να ανακαλύψουν, πόσο εύκολο, αποδοτικό και υγιές είναι το να προσπαθήσουν να μετατρέψουν τα σπίτια τους σε 'πράσινα', γιατί δίχως περιβαλλοντική συνείδηση, δεν μπορούμε να επιτύχουμε τίποτα. (Μεταγλ.)(n)</desc>
-  </programme>
   <programme start="20160729113000 +0300" stop="20160729120000 +0300" channel="TV100">
     <title lang="en">Δημιουργίες (Ε)</title>
     <sub-title lang="en">DIS0013702798</sub-title>
@@ -5250,11 +5222,6 @@ Conservators, του τμήματος
     <title lang="en">Πολιτιστικό Ημερολόγιο (Ε)</title>
     <sub-title lang="en">DIS0013928487</sub-title>
     <desc lang="en">Πολιτιστική εκπομπή(n)</desc>
-  </programme>
-  <programme start="20160729100000 +0300" stop="20160729113000 +0300" channel="EPIRUS">
-    <title lang="en">Travel Guide</title>
-    <sub-title lang="en">DIS0013606415</sub-title>
-    <desc lang="en">Ταξιδέψτε σε μακρινά και ονειρεμένα μέρη σε όλο τον κόσμο και γνωρίστε διαφορετικούς πολιτισμούς και γεύσεις από μακρινές κουζίνες! Ένα οδοιπορικό σε Ελλάδα και εξωτερικό, σε τόπους που θα ήθελες να ταξιδέψεις(n)</desc>
   </programme>
   <programme start="20160729113000 +0300" stop="20160729140000 +0300" channel="EPIRUS">
     <title lang="en">Στο Πανηγύρι του Χωριού</title>
@@ -6235,11 +6202,6 @@ Conservators, του τμήματος
     <title lang="en">Ειδήσεις (Ε)</title>
     <sub-title lang="en">DIS0014058974</sub-title>
     <desc lang="en">Δείτε τα τελευταία νέα από την Ελλάδα και τον κόσμο(n)</desc>
-  </programme>
-  <programme start="20160729112000 +0300" stop="20160729113000 +0300" channel="EURONEWS">
-    <title lang="en">Παγκόσμιος Διάλογος</title>
-    <sub-title lang="en">DIS0013792146</sub-title>
-    <desc lang="en">Αποκλειστική συνέντευξη διάρκειας 20 λεπτών που μεταδίδεται απευθείας από το κανάλι, το site euronews.com και το YouTube. Αμέσως μετά, ακολουθεί διάλογος με τους διαδικτυακούς χρήστες μέσω του site και του Google Plus Hangout(n)</desc>
   </programme>
   <programme start="20160729113000 +0300" stop="20160729120000 +0300" channel="EURONEWS">
     <title lang="en">News of the Day</title>
@@ -12802,663 +12764,663 @@ Conservators, του τμήματος
     <title lang="el">Sin City ER</title>
     <desc lang="el">Ep. 2. Revealing the untold stories of one of the busiest and most unique ERs in America. Working at the heart of Sin City, the staff of University Medical Center (UMC) have seen it all(n)</desc>
   </programme>
-  <programme start="20160729010000 +0300" stop="20160729010000 +0300" channel="Alpha">
+  <programme start="20160729010000 +0300" stop="20160729010000 +0300" channel="AlphaCY">
     <title lang="el">ΠΑΦΟΣ FC - ΟΜΟΝΟΙΑ</title>
     <desc lang="el">Το Παγκύπριο Πρωτάθλημα CYTA προσφέρει γι’ακόμη μια χρονιά πλούσια ντέρμπι και εκπλήξεις(n)</desc>
   </programme>
-  <programme start="20160729010000 +0300" stop="20160729030000 +0300" channel="Alpha">
+  <programme start="20160729010000 +0300" stop="20160729030000 +0300" channel="AlphaCY">
     <title lang="el">ΠΑΦΟΣ FC - ΟΜΟΝΟΙΑ</title>
     <desc lang="el">Το Παγκύπριο Πρωτάθλημα CYTA προσφέρει γι’ακόμη μια χρονιά πλούσια ντέρμπι και εκπλήξεις(n)</desc>
   </programme>
-  <programme start="20160729030000 +0300" stop="20160729030000 +0300" channel="Alpha">
+  <programme start="20160729030000 +0300" stop="20160729030000 +0300" channel="AlphaCY">
     <title lang="el">MANCHESTER CITY - MANCHESTER UNITED</title>
     <desc lang="el">Οι είκοσι καλύτερες ομάδες του Αγγλικού ποδοσφαίρου συναγωνίζονται στην Premier League, την πιο συναρπαστική διοργάνωση ποδοσφαίρου στο κόσμο(n)</desc>
   </programme>
-  <programme start="20160729030000 +0300" stop="20160729050000 +0300" channel="Alpha">
+  <programme start="20160729030000 +0300" stop="20160729050000 +0300" channel="AlphaCY">
     <title lang="el">MANCHESTER CITY - MANCHESTER UNITED</title>
     <desc lang="el">Οι είκοσι καλύτερες ομάδες του Αγγλικού ποδοσφαίρου συναγωνίζονται στην Premier League, την πιο συναρπαστική διοργάνωση ποδοσφαίρου στο κόσμο(n)</desc>
   </programme>
-  <programme start="20160729050000 +0300" stop="20160729050000 +0300" channel="Alpha">
+  <programme start="20160729050000 +0300" stop="20160729050000 +0300" channel="AlphaCY">
     <title lang="el">ASTON VILLA - CHELSEA</title>
     <desc lang="el">Οι είκοσι καλύτερες ομάδες του Αγγλικού ποδοσφαίρου συναγωνίζονται στην Premier League, την πιο συναρπαστική διοργάνωση ποδοσφαίρου στο κόσμο(n)</desc>
   </programme>
-  <programme start="20160729050000 +0300" stop="20160729070000 +0300" channel="Alpha">
+  <programme start="20160729050000 +0300" stop="20160729070000 +0300" channel="AlphaCY">
     <title lang="el">ASTON VILLA - CHELSEA</title>
     <desc lang="el">Οι είκοσι καλύτερες ομάδες του Αγγλικού ποδοσφαίρου συναγωνίζονται στην Premier League, την πιο συναρπαστική διοργάνωση ποδοσφαίρου στο κόσμο(n)</desc>
   </programme>
-  <programme start="20160729070000 +0300" stop="20160729070000 +0300" channel="Alpha">
+  <programme start="20160729070000 +0300" stop="20160729070000 +0300" channel="AlphaCY">
     <title lang="el">FC SCHALKE 04 - VFB STUTTGART</title>
     <desc lang="el">Δύναμη, πειθαρχία και μαχητικότητα χαραχτηρίζουν την απρόβλεπτη Bundesliga που συνεχίζει να συναρπάζει τους φίλους του αθλήματος(n)</desc>
   </programme>
-  <programme start="20160729070000 +0300" stop="20160729090000 +0300" channel="Alpha">
+  <programme start="20160729070000 +0300" stop="20160729090000 +0300" channel="AlphaCY">
     <title lang="el">FC SCHALKE 04 - VFB STUTTGART</title>
     <desc lang="el">Δύναμη, πειθαρχία και μαχητικότητα χαραχτηρίζουν την απρόβλεπτη Bundesliga που συνεχίζει να συναρπάζει τους φίλους του αθλήματος(n)</desc>
   </programme>
-  <programme start="20160729090000 +0300" stop="20160729090000 +0300" channel="Alpha">
+  <programme start="20160729090000 +0300" stop="20160729090000 +0300" channel="AlphaCY">
     <title lang="el">1. FC KOLN - HERTHA BERLIN</title>
     <desc lang="el">Δύναμη, πειθαρχία και μαχητικότητα χαραχτηρίζουν την απρόβλεπτη Bundesliga που συνεχίζει να συναρπάζει τους φίλους του αθλήματος(n)</desc>
   </programme>
-  <programme start="20160729090000 +0300" stop="20160729110000 +0300" channel="Alpha">
+  <programme start="20160729090000 +0300" stop="20160729110000 +0300" channel="AlphaCY">
     <title lang="el">1. FC KOLN - HERTHA BERLIN</title>
     <desc lang="el">Δύναμη, πειθαρχία και μαχητικότητα χαραχτηρίζουν την απρόβλεπτη Bundesliga που συνεχίζει να συναρπάζει τους φίλους του αθλήματος(n)</desc>
   </programme>
-  <programme start="20160729110000 +0300" stop="20160729110000 +0300" channel="Alpha">
+  <programme start="20160729110000 +0300" stop="20160729110000 +0300" channel="AlphaCY">
     <title lang="el">ΑΠΟ ΤΟ ΑΡΧΕΙΟ ΤΟΥ ΚΥΠΡΙΑΚΟΥ ΠΟΔΟΣΦΑΙΡΟΥ</title>
     <desc lang="el">N/A(n)</desc>
   </programme>
-  <programme start="20160729110000 +0300" stop="20160729130000 +0300" channel="Alpha">
+  <programme start="20160729110000 +0300" stop="20160729130000 +0300" channel="AlphaCY">
     <title lang="el">ΑΠΟ ΤΟ ΑΡΧΕΙΟ ΤΟΥ ΚΥΠΡΙΑΚΟΥ ΠΟΔΟΣΦΑΙΡΟΥ</title>
     <desc lang="el">N/A(n)</desc>
   </programme>
-  <programme start="20160729130000 +0300" stop="20160729130000 +0300" channel="Alpha">
+  <programme start="20160729130000 +0300" stop="20160729130000 +0300" channel="AlphaCY">
     <title lang="el">ΠΑΦΟΣ FC - ΟΜΟΝΟΙΑ</title>
     <desc lang="el">Το Παγκύπριο Πρωτάθλημα CYTA προσφέρει γι’ακόμη μια χρονιά πλούσια ντέρμπι και εκπλήξεις(n)</desc>
   </programme>
-  <programme start="20160729130000 +0300" stop="20160729150000 +0300" channel="Alpha">
+  <programme start="20160729130000 +0300" stop="20160729150000 +0300" channel="AlphaCY">
     <title lang="el">ΠΑΦΟΣ FC - ΟΜΟΝΟΙΑ</title>
     <desc lang="el">Το Παγκύπριο Πρωτάθλημα CYTA προσφέρει γι’ακόμη μια χρονιά πλούσια ντέρμπι και εκπλήξεις(n)</desc>
   </programme>
-  <programme start="20160729150000 +0300" stop="20160729150000 +0300" channel="Alpha">
+  <programme start="20160729150000 +0300" stop="20160729150000 +0300" channel="AlphaCY">
     <title lang="el">AFC BOURNEMOUTH - MANCHESTER CITY</title>
     <desc lang="el">Οι είκοσι καλύτερες ομάδες του Αγγλικού ποδοσφαίρου συναγωνίζονται στην Premier League, την πιο συναρπαστική διοργάνωση ποδοσφαίρου στο κόσμο(n)</desc>
   </programme>
-  <programme start="20160729150000 +0300" stop="20160729170000 +0300" channel="Alpha">
+  <programme start="20160729150000 +0300" stop="20160729170000 +0300" channel="AlphaCY">
     <title lang="el">AFC BOURNEMOUTH - MANCHESTER CITY</title>
     <desc lang="el">Οι είκοσι καλύτερες ομάδες του Αγγλικού ποδοσφαίρου συναγωνίζονται στην Premier League, την πιο συναρπαστική διοργάνωση ποδοσφαίρου στο κόσμο(n)</desc>
   </programme>
-  <programme start="20160729170000 +0300" stop="20160729170000 +0300" channel="Alpha">
+  <programme start="20160729170000 +0300" stop="20160729170000 +0300" channel="AlphaCY">
     <title lang="el">ΛΙΒΕΡΠΟΥΛ-ΑΡΣΕΝΑΛ (08/09)</title>
     <desc lang="el">Οι καλύτεροι αγώνες από το αρχείο της Πρέμιερ Λιγκ(n)</desc>
   </programme>
-  <programme start="20160729170000 +0300" stop="20160729190000 +0300" channel="Alpha">
+  <programme start="20160729170000 +0300" stop="20160729190000 +0300" channel="AlphaCY">
     <title lang="el">ΛΙΒΕΡΠΟΥΛ-ΑΡΣΕΝΑΛ (08/09)</title>
     <desc lang="el">Οι καλύτεροι αγώνες από το αρχείο της Πρέμιερ Λιγκ(n)</desc>
   </programme>
-  <programme start="20160729190000 +0300" stop="20160729190000 +0300" channel="Alpha">
+  <programme start="20160729190000 +0300" stop="20160729190000 +0300" channel="AlphaCY">
     <title lang="el">ΛΙΒΕΡΠΟΥΛ-ΜΑΝΤΣΕΣΤΕΡ Γ. [10/11]</title>
     <desc lang="el">Οι καλύτεροι αγώνες από το αρχείο της Πρέμιερ Λιγκ(n)</desc>
   </programme>
-  <programme start="20160729190000 +0300" stop="20160729210000 +0300" channel="Alpha">
+  <programme start="20160729190000 +0300" stop="20160729210000 +0300" channel="AlphaCY">
     <title lang="el">ΛΙΒΕΡΠΟΥΛ-ΜΑΝΤΣΕΣΤΕΡ Γ. [10/11]</title>
     <desc lang="el">Οι καλύτεροι αγώνες από το αρχείο της Πρέμιερ Λιγκ(n)</desc>
   </programme>
-  <programme start="20160729210000 +0300" stop="20160729210000 +0300" channel="Alpha">
+  <programme start="20160729210000 +0300" stop="20160729210000 +0300" channel="AlphaCY">
     <title lang="el">ΕΒΕΡΤΟΝ-ΛΙΒΕΡΠΟΥΛ [06/07]</title>
     <desc lang="el">Οι καλύτεροι αγώνες από το αρχείο της Πρέμιερ Λιγκ(n)</desc>
   </programme>
-  <programme start="20160729210000 +0300" stop="20160729230000 +0300" channel="Alpha">
+  <programme start="20160729210000 +0300" stop="20160729230000 +0300" channel="AlphaCY">
     <title lang="el">ΕΒΕΡΤΟΝ-ΛΙΒΕΡΠΟΥΛ [06/07]</title>
     <desc lang="el">Οι καλύτεροι αγώνες από το αρχείο της Πρέμιερ Λιγκ(n)</desc>
   </programme>
-  <programme start="20160729230000 +0300" stop="20160729230000 +0300" channel="Alpha">
+  <programme start="20160729230000 +0300" stop="20160729230000 +0300" channel="AlphaCY">
     <title lang="el">ΑΠΟ ΤΟ ΑΡΧΕΙΟ ΤΟΥ ΚΥΠΡΙΑΚΟΥ ΠΟΔΟΣΦΑΙΡΟΥ</title>
     <desc lang="el">N/A(n)</desc>
   </programme>
-  <programme start="20160729230000 +0300" stop="20160730000000 +0300" channel="Alpha">
+  <programme start="20160729230000 +0300" stop="20160730000000 +0300" channel="AlphaCY">
     <title lang="el">ΑΠΟ ΤΟ ΑΡΧΕΙΟ ΤΟΥ ΚΥΠΡΙΑΚΟΥ ΠΟΔΟΣΦΑΙΡΟΥ</title>
     <desc lang="el">N/A(n)</desc>
   </programme>
-  <programme start="20160730000000 +0300" stop="20160730000000 +0300" channel="Alpha">
+  <programme start="20160730000000 +0300" stop="20160730000000 +0300" channel="AlphaCY">
     <title lang="el">ARSENAL - CRYSTAL PALACE</title>
     <desc lang="el">Οι είκοσι καλύτερες ομάδες του Αγγλικού ποδοσφαίρου συναγωνίζονται στην Premier League, την πιο συναρπαστική διοργάνωση ποδοσφαίρου στο κόσμο(n)</desc>
   </programme>
-  <programme start="20160730000000 +0300" stop="20160730020000 +0300" channel="Alpha">
+  <programme start="20160730000000 +0300" stop="20160730020000 +0300" channel="AlphaCY">
     <title lang="el">ARSENAL - CRYSTAL PALACE</title>
     <desc lang="el">Οι είκοσι καλύτερες ομάδες του Αγγλικού ποδοσφαίρου συναγωνίζονται στην Premier League, την πιο συναρπαστική διοργάνωση ποδοσφαίρου στο κόσμο(n)</desc>
   </programme>
-  <programme start="20160730020000 +0300" stop="20160730020000 +0300" channel="Alpha">
+  <programme start="20160730020000 +0300" stop="20160730020000 +0300" channel="AlphaCY">
     <title lang="el">ΣΥΝΤΟΜΑ ΚΟΝΤΑ ΣΑΣ</title>
     <desc lang="el">N/A(n)</desc>
   </programme>
-  <programme start="20160730020000 +0300" stop="20160730140000 +0300" channel="Alpha">
+  <programme start="20160730020000 +0300" stop="20160730140000 +0300" channel="AlphaCY">
     <title lang="el">ΣΥΝΤΟΜΑ ΚΟΝΤΑ ΣΑΣ</title>
     <desc lang="el">N/A(n)</desc>
   </programme>
-  <programme start="20160730140000 +0300" stop="20160730140000 +0300" channel="Alpha">
+  <programme start="20160730140000 +0300" stop="20160730140000 +0300" channel="AlphaCY">
     <title lang="el">FC SCHALKE 04 - BORUSSIA DORTMUND</title>
     <desc lang="el">Δύναμη, πειθαρχία και μαχητικότητα χαραχτηρίζουν την απρόβλεπτη Bundesliga που συνεχίζει να συναρπάζει τους φίλους του αθλήματος(n)</desc>
   </programme>
-  <programme start="20160730140000 +0300" stop="20160730160000 +0300" channel="Alpha">
+  <programme start="20160730140000 +0300" stop="20160730160000 +0300" channel="AlphaCY">
     <title lang="el">FC SCHALKE 04 - BORUSSIA DORTMUND</title>
     <desc lang="el">Δύναμη, πειθαρχία και μαχητικότητα χαραχτηρίζουν την απρόβλεπτη Bundesliga που συνεχίζει να συναρπάζει τους φίλους του αθλήματος(n)</desc>
   </programme>
-  <programme start="20160730160000 +0300" stop="20160730160000 +0300" channel="Alpha">
+  <programme start="20160730160000 +0300" stop="20160730160000 +0300" channel="AlphaCY">
     <title lang="el">STOKE CITY - TOTTENHAM HOTSPUR</title>
     <desc lang="el">Οι είκοσι καλύτερες ομάδες του Αγγλικού ποδοσφαίρου συναγωνίζονται στην Premier League, την πιο συναρπαστική διοργάνωση ποδοσφαίρου στο κόσμο(n)</desc>
   </programme>
-  <programme start="20160730160000 +0300" stop="20160730180000 +0300" channel="Alpha">
+  <programme start="20160730160000 +0300" stop="20160730180000 +0300" channel="AlphaCY">
     <title lang="el">STOKE CITY - TOTTENHAM HOTSPUR</title>
     <desc lang="el">Οι είκοσι καλύτερες ομάδες του Αγγλικού ποδοσφαίρου συναγωνίζονται στην Premier League, την πιο συναρπαστική διοργάνωση ποδοσφαίρου στο κόσμο(n)</desc>
   </programme>
-  <programme start="20160730180000 +0300" stop="20160730180000 +0300" channel="Alpha">
+  <programme start="20160730180000 +0300" stop="20160730180000 +0300" channel="AlphaCY">
     <title lang="el">ROSENBORG - ΑΠΟΕΛ</title>
     <desc lang="el">Το UEFA Τσάμπιονς Λιγκ θεωρείται η κορυφαία διασυλλογική διοργάνωση στο χώρο του ποδοσφαίρου(n)</desc>
   </programme>
-  <programme start="20160730180000 +0300" stop="20160730200000 +0300" channel="Alpha">
+  <programme start="20160730180000 +0300" stop="20160730200000 +0300" channel="AlphaCY">
     <title lang="el">ROSENBORG - ΑΠΟΕΛ</title>
     <desc lang="el">Το UEFA Τσάμπιονς Λιγκ θεωρείται η κορυφαία διασυλλογική διοργάνωση στο χώρο του ποδοσφαίρου(n)</desc>
   </programme>
-  <programme start="20160730200000 +0300" stop="20160730200000 +0300" channel="Alpha">
+  <programme start="20160730200000 +0300" stop="20160730200000 +0300" channel="AlphaCY">
     <title lang="el">F1: ΓΕΡΜΑΝΙΑ - ΠΡΟΚΡΙΜΑΤΙΚΑ</title>
     <desc lang="el">Το πιο συναρπαστικό και το πιο γκλαμουράτο μηχανοκίνητο άθλημα είναι σίγουρα αυτό της Φόρμουλα 1 που μας ταξιδεύει σε 20 πίστες σ’ όλο τον κόσμο(n)</desc>
   </programme>
-  <programme start="20160730200000 +0300" stop="20160730213000 +0300" channel="Alpha">
+  <programme start="20160730200000 +0300" stop="20160730213000 +0300" channel="AlphaCY">
     <title lang="el">F1: ΓΕΡΜΑΝΙΑ - ΠΡΟΚΡΙΜΑΤΙΚΑ</title>
     <desc lang="el">Το πιο συναρπαστικό και το πιο γκλαμουράτο μηχανοκίνητο άθλημα είναι σίγουρα αυτό της Φόρμουλα 1 που μας ταξιδεύει σε 20 πίστες σ’ όλο τον κόσμο(n)</desc>
   </programme>
-  <programme start="20160730213000 +0300" stop="20160730213000 +0300" channel="Alpha">
+  <programme start="20160730213000 +0300" stop="20160730213000 +0300" channel="AlphaCY">
     <title lang="el">ΜΑΓΚΑΖΙΝΟ PREMIER LEAGUE</title>
     <desc lang="el">Ημίωρο μαγκαζίνο για τη  Premier League με ρεπορτάζ και συνεντεύξεις από τα αστέρια του αθλήματος(n)</desc>
   </programme>
-  <programme start="20160730213000 +0300" stop="20160730220000 +0300" channel="Alpha">
+  <programme start="20160730213000 +0300" stop="20160730220000 +0300" channel="AlphaCY">
     <title lang="el">ΜΑΓΚΑΖΙΝΟ PREMIER LEAGUE</title>
     <desc lang="el">Ημίωρο μαγκαζίνο για τη  Premier League με ρεπορτάζ και συνεντεύξεις από τα αστέρια του αθλήματος(n)</desc>
   </programme>
-  <programme start="20160730220000 +0300" stop="20160730220000 +0300" channel="Alpha">
+  <programme start="20160730220000 +0300" stop="20160730220000 +0300" channel="AlphaCY">
     <title lang="el">HANNOVER 96 - VFL BORUSSIA MONCHENGLADBACH</title>
     <desc lang="el">Δύναμη, πειθαρχία και μαχητικότητα χαραχτηρίζουν την απρόβλεπτη Bundesliga που συνεχίζει να συναρπάζει τους φίλους του αθλήματος(n)</desc>
   </programme>
-  <programme start="20160730220000 +0300" stop="20160730230000 +0300" channel="Alpha">
+  <programme start="20160730220000 +0300" stop="20160730230000 +0300" channel="AlphaCY">
     <title lang="el">HANNOVER 96 - VFL BORUSSIA MONCHENGLADBACH</title>
     <desc lang="el">Δύναμη, πειθαρχία και μαχητικότητα χαραχτηρίζουν την απρόβλεπτη Bundesliga που συνεχίζει να συναρπάζει τους φίλους του αθλήματος(n)</desc>
   </programme>
-  <programme start="20160730230000 +0300" stop="20160730230000 +0300" channel="Alpha">
+  <programme start="20160730230000 +0300" stop="20160730230000 +0300" channel="AlphaCY">
     <title lang="el">STOKE CITY - TOTTENHAM HOTSPUR</title>
     <desc lang="el">Οι είκοσι καλύτερες ομάδες του Αγγλικού ποδοσφαίρου συναγωνίζονται στην Premier League, την πιο συναρπαστική διοργάνωση ποδοσφαίρου στο κόσμο(n)</desc>
   </programme>
-  <programme start="20160730230000 +0300" stop="20160731010000 +0300" channel="Alpha">
+  <programme start="20160730230000 +0300" stop="20160731010000 +0300" channel="AlphaCY">
     <title lang="el">STOKE CITY - TOTTENHAM HOTSPUR</title>
     <desc lang="el">Οι είκοσι καλύτερες ομάδες του Αγγλικού ποδοσφαίρου συναγωνίζονται στην Premier League, την πιο συναρπαστική διοργάνωση ποδοσφαίρου στο κόσμο(n)</desc>
   </programme>
-  <programme start="20160731010000 +0300" stop="20160731010000 +0300" channel="Alpha">
+  <programme start="20160731010000 +0300" stop="20160731010000 +0300" channel="AlphaCY">
     <title lang="el">ΣΤΙΓΜΙΟΤΥΠΑ BUNDESLIGA</title>
     <desc lang="el">Στιγμιότυπα από τη πιο πρόσφατη αγωνιστική της Bundesliga(n)</desc>
   </programme>
-  <programme start="20160731010000 +0300" stop="20160731020000 +0300" channel="Alpha">
+  <programme start="20160731010000 +0300" stop="20160731020000 +0300" channel="AlphaCY">
     <title lang="el">ΣΤΙΓΜΙΟΤΥΠΑ BUNDESLIGA</title>
     <desc lang="el">Στιγμιότυπα από τη πιο πρόσφατη αγωνιστική της Bundesliga(n)</desc>
   </programme>
-  <programme start="20160731020000 +0300" stop="20160731020000 +0300" channel="Alpha">
+  <programme start="20160731020000 +0300" stop="20160731020000 +0300" channel="AlphaCY">
     <title lang="el">ΣΤΙΓΜΙΟΤΥΠΑ PREMIER LEAGUE</title>
     <desc lang="el">Στιγμιότυπα από όλους τους αγώνες της πιο πρόσφατης αγωνιστικής της Premier League(n)</desc>
   </programme>
-  <programme start="20160731020000 +0300" stop="20160731030000 +0300" channel="Alpha">
+  <programme start="20160731020000 +0300" stop="20160731030000 +0300" channel="AlphaCY">
     <title lang="el">ΣΤΙΓΜΙΟΤΥΠΑ PREMIER LEAGUE</title>
     <desc lang="el">Στιγμιότυπα από όλους τους αγώνες της πιο πρόσφατης αγωνιστικής της Premier League(n)</desc>
   </programme>
-  <programme start="20160731030000 +0300" stop="20160731030000 +0300" channel="Alpha">
+  <programme start="20160731030000 +0300" stop="20160731030000 +0300" channel="AlphaCY">
     <title lang="el">BORUSSIA DORTMUND - HERTHA BERLIN</title>
     <desc lang="el">Δύναμη, πειθαρχία και μαχητικότητα χαραχτηρίζουν την απρόβλεπτη Bundesliga που συνεχίζει να συναρπάζει τους φίλους του αθλήματος(n)</desc>
   </programme>
-  <programme start="20160731030000 +0300" stop="20160731050000 +0300" channel="Alpha">
+  <programme start="20160731030000 +0300" stop="20160731050000 +0300" channel="AlphaCY">
     <title lang="el">BORUSSIA DORTMUND - HERTHA BERLIN</title>
     <desc lang="el">Δύναμη, πειθαρχία και μαχητικότητα χαραχτηρίζουν την απρόβλεπτη Bundesliga που συνεχίζει να συναρπάζει τους φίλους του αθλήματος(n)</desc>
   </programme>
-  <programme start="20160731050000 +0300" stop="20160731050000 +0300" channel="Alpha">
+  <programme start="20160731050000 +0300" stop="20160731050000 +0300" channel="AlphaCY">
     <title lang="el">MAINZ - BORUSSIA DORTMUND</title>
     <desc lang="el">Δύναμη, πειθαρχία και μαχητικότητα χαραχτηρίζουν την απρόβλεπτη Bundesliga που συνεχίζει να συναρπάζει τους φίλους του αθλήματος(n)</desc>
   </programme>
-  <programme start="20160731050000 +0300" stop="20160731070000 +0300" channel="Alpha">
+  <programme start="20160731050000 +0300" stop="20160731070000 +0300" channel="AlphaCY">
     <title lang="el">MAINZ - BORUSSIA DORTMUND</title>
     <desc lang="el">Δύναμη, πειθαρχία και μαχητικότητα χαραχτηρίζουν την απρόβλεπτη Bundesliga που συνεχίζει να συναρπάζει τους φίλους του αθλήματος(n)</desc>
   </programme>
-  <programme start="20160731070000 +0300" stop="20160731070000 +0300" channel="Alpha">
+  <programme start="20160731070000 +0300" stop="20160731070000 +0300" channel="AlphaCY">
     <title lang="el">NEWCASTLE UNITED - MANCHESTER CITY</title>
     <desc lang="el">Οι είκοσι καλύτερες ομάδες του Αγγλικού ποδοσφαίρου συναγωνίζονται στην Premier League, την πιο συναρπαστική διοργάνωση ποδοσφαίρου στο κόσμο(n)</desc>
   </programme>
-  <programme start="20160731070000 +0300" stop="20160731090000 +0300" channel="Alpha">
+  <programme start="20160731070000 +0300" stop="20160731090000 +0300" channel="AlphaCY">
     <title lang="el">NEWCASTLE UNITED - MANCHESTER CITY</title>
     <desc lang="el">Οι είκοσι καλύτερες ομάδες του Αγγλικού ποδοσφαίρου συναγωνίζονται στην Premier League, την πιο συναρπαστική διοργάνωση ποδοσφαίρου στο κόσμο(n)</desc>
   </programme>
-  <programme start="20160731090000 +0300" stop="20160731090000 +0300" channel="Alpha">
+  <programme start="20160731090000 +0300" stop="20160731090000 +0300" channel="AlphaCY">
     <title lang="el">LIVERPOOL - EVERTON</title>
     <desc lang="el">Οι είκοσι καλύτερες ομάδες του Αγγλικού ποδοσφαίρου συναγωνίζονται στην Premier League, την πιο συναρπαστική διοργάνωση ποδοσφαίρου στο κόσμο(n)</desc>
   </programme>
-  <programme start="20160731090000 +0300" stop="20160731110000 +0300" channel="Alpha">
+  <programme start="20160731090000 +0300" stop="20160731110000 +0300" channel="AlphaCY">
     <title lang="el">LIVERPOOL - EVERTON</title>
     <desc lang="el">Οι είκοσι καλύτερες ομάδες του Αγγλικού ποδοσφαίρου συναγωνίζονται στην Premier League, την πιο συναρπαστική διοργάνωση ποδοσφαίρου στο κόσμο(n)</desc>
   </programme>
-  <programme start="20160731110000 +0300" stop="20160731110000 +0300" channel="Alpha">
+  <programme start="20160731110000 +0300" stop="20160731110000 +0300" channel="AlphaCY">
     <title lang="el">ΑΡΣΕΝΑΛ-ΛΙΝΤΣ [02/03]</title>
     <desc lang="el">Οι καλύτεροι αγώνες από το αρχείο της Πρέμιερ Λιγκ(n)</desc>
   </programme>
-  <programme start="20160731110000 +0300" stop="20160731124500 +0300" channel="Alpha">
+  <programme start="20160731110000 +0300" stop="20160731124500 +0300" channel="AlphaCY">
     <title lang="el">ΑΡΣΕΝΑΛ-ΛΙΝΤΣ [02/03]</title>
     <desc lang="el">Οι καλύτεροι αγώνες από το αρχείο της Πρέμιερ Λιγκ(n)</desc>
   </programme>
-  <programme start="20160731124500 +0300" stop="20160731124500 +0300" channel="Alpha">
+  <programme start="20160731124500 +0300" stop="20160731124500 +0300" channel="AlphaCY">
     <title lang="el">ΣΤΙΓΜΙΟΤΥΠΑ BUNDESLIGA</title>
     <desc lang="el">Στιγμιότυπα από τη πιο πρόσφατη αγωνιστική της Bundesliga(n)</desc>
   </programme>
-  <programme start="20160731124500 +0300" stop="20160731134500 +0300" channel="Alpha">
+  <programme start="20160731124500 +0300" stop="20160731134500 +0300" channel="AlphaCY">
     <title lang="el">ΣΤΙΓΜΙΟΤΥΠΑ BUNDESLIGA</title>
     <desc lang="el">Στιγμιότυπα από τη πιο πρόσφατη αγωνιστική της Bundesliga(n)</desc>
   </programme>
-  <programme start="20160731134500 +0300" stop="20160731134500 +0300" channel="Alpha">
+  <programme start="20160731134500 +0300" stop="20160731134500 +0300" channel="AlphaCY">
     <title lang="el">ΣΤΙΓΜΙΟΤΥΠΑ PREMIER LEAGUE</title>
     <desc lang="el">Στιγμιότυπα από όλους τους αγώνες της πιο πρόσφατης αγωνιστικής της Premier League(n)</desc>
   </programme>
-  <programme start="20160731134500 +0300" stop="20160731144500 +0300" channel="Alpha">
+  <programme start="20160731134500 +0300" stop="20160731144500 +0300" channel="AlphaCY">
     <title lang="el">ΣΤΙΓΜΙΟΤΥΠΑ PREMIER LEAGUE</title>
     <desc lang="el">Στιγμιότυπα από όλους τους αγώνες της πιο πρόσφατης αγωνιστικής της Premier League(n)</desc>
   </programme>
-  <programme start="20160731144500 +0300" stop="20160731144500 +0300" channel="Alpha">
+  <programme start="20160731144500 +0300" stop="20160731144500 +0300" channel="AlphaCY">
     <title lang="el">F1: ΓΕΡΜΑΝΙΑ - ΚΟΥΡΣΑ (Z)</title>
     <desc lang="el">Το πιο συναρπαστικό και το πιο γκλαμουράτο μηχανοκίνητο άθλημα είναι σίγουρα αυτό της Φόρμουλα 1 που μας ταξιδεύει σε 20 πίστες σ’ όλο τον κόσμο(n)</desc>
   </programme>
-  <programme start="20160731144500 +0300" stop="20160731171500 +0300" channel="Alpha">
+  <programme start="20160731144500 +0300" stop="20160731171500 +0300" channel="AlphaCY">
     <title lang="el">F1: ΓΕΡΜΑΝΙΑ - ΚΟΥΡΣΑ (Z)</title>
     <desc lang="el">Το πιο συναρπαστικό και το πιο γκλαμουράτο μηχανοκίνητο άθλημα είναι σίγουρα αυτό της Φόρμουλα 1 που μας ταξιδεύει σε 20 πίστες σ’ όλο τον κόσμο(n)</desc>
   </programme>
-  <programme start="20160731171500 +0300" stop="20160731171500 +0300" channel="Alpha">
+  <programme start="20160731171500 +0300" stop="20160731171500 +0300" channel="AlphaCY">
     <title lang="el">WERDER BREMEN - BAYERN MUNICH</title>
     <desc lang="el">Δύναμη, πειθαρχία και μαχητικότητα χαραχτηρίζουν την απρόβλεπτη Bundesliga που συνεχίζει να συναρπάζει τους φίλους του αθλήματος(n)</desc>
   </programme>
-  <programme start="20160731171500 +0300" stop="20160731190000 +0300" channel="Alpha">
+  <programme start="20160731171500 +0300" stop="20160731190000 +0300" channel="AlphaCY">
     <title lang="el">WERDER BREMEN - BAYERN MUNICH</title>
     <desc lang="el">Δύναμη, πειθαρχία και μαχητικότητα χαραχτηρίζουν την απρόβλεπτη Bundesliga που συνεχίζει να συναρπάζει τους φίλους του αθλήματος(n)</desc>
   </programme>
-  <programme start="20160731190000 +0300" stop="20160731190000 +0300" channel="Alpha">
+  <programme start="20160731190000 +0300" stop="20160731190000 +0300" channel="AlphaCY">
     <title lang="el">MANCHESTER UNITED - CRYSTAL PALACE</title>
     <desc lang="el">Οι είκοσι καλύτερες ομάδες του Αγγλικού ποδοσφαίρου συναγωνίζονται στην Premier League, την πιο συναρπαστική διοργάνωση ποδοσφαίρου στο κόσμο(n)</desc>
   </programme>
-  <programme start="20160731190000 +0300" stop="20160731210000 +0300" channel="Alpha">
+  <programme start="20160731190000 +0300" stop="20160731210000 +0300" channel="AlphaCY">
     <title lang="el">MANCHESTER UNITED - CRYSTAL PALACE</title>
     <desc lang="el">Οι είκοσι καλύτερες ομάδες του Αγγλικού ποδοσφαίρου συναγωνίζονται στην Premier League, την πιο συναρπαστική διοργάνωση ποδοσφαίρου στο κόσμο(n)</desc>
   </programme>
-  <programme start="20160731210000 +0300" stop="20160731210000 +0300" channel="Alpha">
+  <programme start="20160731210000 +0300" stop="20160731210000 +0300" channel="AlphaCY">
     <title lang="el">ΠΑΦΟΣ FC - ΟΜΟΝΟΙΑ</title>
     <desc lang="el">Το Παγκύπριο Πρωτάθλημα CYTA προσφέρει γι’ακόμη μια χρονιά πλούσια ντέρμπι και εκπλήξεις(n)</desc>
   </programme>
-  <programme start="20160731210000 +0300" stop="20160731230000 +0300" channel="Alpha">
+  <programme start="20160731210000 +0300" stop="20160731230000 +0300" channel="AlphaCY">
     <title lang="el">ΠΑΦΟΣ FC - ΟΜΟΝΟΙΑ</title>
     <desc lang="el">Το Παγκύπριο Πρωτάθλημα CYTA προσφέρει γι’ακόμη μια χρονιά πλούσια ντέρμπι και εκπλήξεις(n)</desc>
   </programme>
-  <programme start="20160731230000 +0300" stop="20160731230000 +0300" channel="Alpha">
+  <programme start="20160731230000 +0300" stop="20160731230000 +0300" channel="AlphaCY">
     <title lang="el">ARSENAL - WEST BROMWICH ALBION</title>
     <desc lang="el">Οι είκοσι καλύτερες ομάδες του Αγγλικού ποδοσφαίρου συναγωνίζονται στην Premier League, την πιο συναρπαστική διοργάνωση ποδοσφαίρου στο κόσμο(n)</desc>
   </programme>
-  <programme start="20160731230000 +0300" stop="20160801000000 +0300" channel="Alpha">
+  <programme start="20160731230000 +0300" stop="20160801000000 +0300" channel="AlphaCY">
     <title lang="el">ARSENAL - WEST BROMWICH ALBION</title>
     <desc lang="el">Οι είκοσι καλύτερες ομάδες του Αγγλικού ποδοσφαίρου συναγωνίζονται στην Premier League, την πιο συναρπαστική διοργάνωση ποδοσφαίρου στο κόσμο(n)</desc>
   </programme>
-  <programme start="20160801000000 +0300" stop="20160801010000 +0300" channel="Alpha">
+  <programme start="20160801000000 +0300" stop="20160801010000 +0300" channel="AlphaCY">
     <title lang="el">Cycling: London-Surrey Classic, Great Britain</title>
     <desc lang="el">London-Surrey Classic, Great Britain(n)</desc>
   </programme>
-  <programme start="20160801010000 +0300" stop="20160801010500 +0300" channel="Alpha">
+  <programme start="20160801010000 +0300" stop="20160801010500 +0300" channel="AlphaCY">
     <title lang="el">News: Eurosport 2 News</title>
     <desc lang="el">Eurosport 2 News(n)</desc>
   </programme>
-  <programme start="20160801010500 +0300" stop="20160801011000 +0300" channel="Alpha">
+  <programme start="20160801010500 +0300" stop="20160801011000 +0300" channel="AlphaCY">
     <title lang="el">All Sports: Going For Gold</title>
     <desc lang="el">Going For Gold. Going For Gold is a 30-minute programme dedicated to the most fascinating sport's stories of our time. The magazine tells the story of a legend, the quest of an athlete and gives some tips in an exclusive "Tech Talk" segment, including 360 footage(n)</desc>
   </programme>
-  <programme start="20160801011000 +0300" stop="20160801020000 +0300" channel="Alpha">
+  <programme start="20160801011000 +0300" stop="20160801020000 +0300" channel="AlphaCY">
     <title lang="el">Cycling: Clasica San Sebastian, Spain</title>
     <desc lang="el">Clasica San Sebastian, Spain(n)</desc>
   </programme>
-  <programme start="20160801020000 +0300" stop="20160801021500 +0300" channel="Alpha">
+  <programme start="20160801020000 +0300" stop="20160801021500 +0300" channel="AlphaCY">
     <title lang="el">All Sports: Watts</title>
     <desc lang="el">Weekly round-up of the bizarre, funny and kooky goings-on in the world of sports(n)</desc>
   </programme>
-  <programme start="20160801021500 +0300" stop="20160801023000 +0300" channel="Alpha">
+  <programme start="20160801021500 +0300" stop="20160801023000 +0300" channel="AlphaCY">
     <title lang="el">Equestrianism: Horse Excellence</title>
     <desc lang="el">Horse excellence(n)</desc>
   </programme>
-  <programme start="20160801023000 +0300" stop="20160801040000 +0300" channel="Alpha">
+  <programme start="20160801023000 +0300" stop="20160801040000 +0300" channel="AlphaCY">
     <title lang="el">Ski Jumping: Summer Grand Prix in Hinterzarten, Germany</title>
     <desc lang="el">Summer Grand Prix in Hinterzarten, Germany. HS 108(n)</desc>
   </programme>
-  <programme start="20160801040000 +0300" stop="20160801050000 +0300" channel="Alpha">
+  <programme start="20160801040000 +0300" stop="20160801050000 +0300" channel="AlphaCY">
     <title lang="el">All Sports: Watts</title>
     <desc lang="el">Weekly round-up of the bizarre, funny and kooky goings-on in the world of sports(n)</desc>
   </programme>
-  <programme start="20160801050000 +0300" stop="20160801053000 +0300" channel="Alpha">
+  <programme start="20160801050000 +0300" stop="20160801053000 +0300" channel="AlphaCY">
     <title lang="el">Motocross: World Championship In Lommel, Belgium</title>
     <desc lang="el">World Championship in Lommel, Belgium. MX2 - Race 2(n)</desc>
   </programme>
-  <programme start="20160801053000 +0300" stop="20160801060000 +0300" channel="Alpha">
+  <programme start="20160801053000 +0300" stop="20160801060000 +0300" channel="AlphaCY">
     <title lang="el">Motocross: World Championship In Lommel, Belgium</title>
     <desc lang="el">World Championship in Lommel, Belgium. Race 2 MXGP(n)</desc>
   </programme>
-  <programme start="20160801060000 +0300" stop="20160801070000 +0300" channel="Alpha">
+  <programme start="20160801060000 +0300" stop="20160801070000 +0300" channel="AlphaCY">
     <title lang="el">Snooker: World Open, China</title>
     <desc lang="el">N/A(n)</desc>
   </programme>
-  <programme start="20160801070000 +0300" stop="20160801083000 +0300" channel="Alpha">
+  <programme start="20160801070000 +0300" stop="20160801083000 +0300" channel="AlphaCY">
     <title lang="el">Ski Jumping: Summer Grand Prix in Hinterzarten, Germany</title>
     <desc lang="el">Summer Grand Prix in Hinterzarten, Germany. HS 108(n)</desc>
   </programme>
-  <programme start="20160801083000 +0300" stop="20160801093000 +0300" channel="Alpha">
+  <programme start="20160801083000 +0300" stop="20160801093000 +0300" channel="AlphaCY">
     <title lang="el">Football: Uefa European Women's Under-19 Championship In Slovakia</title>
     <desc lang="el">Uefa European Women's Under-19 Championship in Slovakia. Final(n)</desc>
   </programme>
-  <programme start="20160801093000 +0300" stop="20160801103000 +0300" channel="Alpha">
+  <programme start="20160801093000 +0300" stop="20160801103000 +0300" channel="AlphaCY">
     <title lang="el">Cycling: Clasica San Sebastian, Spain</title>
     <desc lang="el">Clasica San Sebastian, Spain(n)</desc>
   </programme>
-  <programme start="20160801103000 +0300" stop="20160801120000 +0300" channel="Alpha">
+  <programme start="20160801103000 +0300" stop="20160801120000 +0300" channel="AlphaCY">
     <title lang="el">Cycling: London-Surrey Classic, Great Britain</title>
     <desc lang="el">London-Surrey Classic, Great Britain(n)</desc>
   </programme>
-  <programme start="20160801120000 +0300" stop="20160801133000 +0300" channel="Alpha">
+  <programme start="20160801120000 +0300" stop="20160801133000 +0300" channel="AlphaCY">
     <title lang="el">Motorcycling: Fim Endurance World Championship In Suzuka, Japan</title>
     <desc lang="el">Fim Endurance World Championship in Suzuka, Japan(n)</desc>
   </programme>
-  <programme start="20160801133000 +0300" stop="20160801150000 +0300" channel="Alpha">
+  <programme start="20160801133000 +0300" stop="20160801150000 +0300" channel="AlphaCY">
     <title lang="el">Ski Jumping: Summer Grand Prix in Hinterzarten, Germany</title>
     <desc lang="el">Summer Grand Prix in Hinterzarten, Germany. HS 108(n)</desc>
   </programme>
-  <programme start="20160801150000 +0300" stop="20160801163000 +0300" channel="Alpha">
+  <programme start="20160801150000 +0300" stop="20160801163000 +0300" channel="AlphaCY">
     <title lang="el">Snooker: World Open, China</title>
     <desc lang="el">N/A(n)</desc>
   </programme>
-  <programme start="20160801163000 +0300" stop="20160801180000 +0300" channel="Alpha">
+  <programme start="20160801163000 +0300" stop="20160801180000 +0300" channel="AlphaCY">
     <title lang="el">Football: Major League Soccer</title>
     <desc lang="el">Major League Soccer. Day 21: Sporting Kansas City (USA) - Portland Timbers (USA)(n)</desc>
   </programme>
-  <programme start="20160801180000 +0300" stop="20160801190000 +0300" channel="Alpha">
+  <programme start="20160801180000 +0300" stop="20160801190000 +0300" channel="AlphaCY">
     <title lang="el">All Sports: Watts</title>
     <desc lang="el">Weekly round-up of the bizarre, funny and kooky goings-on in the world of sports(n)</desc>
   </programme>
-  <programme start="20160801190000 +0300" stop="20160801203000 +0300" channel="Alpha">
+  <programme start="20160801190000 +0300" stop="20160801203000 +0300" channel="AlphaCY">
     <title lang="el">Snooker: World Open, China</title>
     <desc lang="el">N/A(n)</desc>
   </programme>
-  <programme start="20160801203000 +0300" stop="20160801203500 +0300" channel="Alpha">
+  <programme start="20160801203000 +0300" stop="20160801203500 +0300" channel="AlphaCY">
     <title lang="el">News: Eurosport 2 News</title>
     <desc lang="el">Eurosport 2 News(n)</desc>
   </programme>
-  <programme start="20160801203500 +0300" stop="20160801220000 +0300" channel="Alpha">
+  <programme start="20160801203500 +0300" stop="20160801220000 +0300" channel="AlphaCY">
     <title lang="el">Football: Major League Soccer</title>
     <desc lang="el">Major League Soccer. Day 21: Sporting Kansas City (USA) - Portland Timbers (USA)(n)</desc>
   </programme>
-  <programme start="20160801220000 +0300" stop="20160801233000 +0300" channel="Alpha">
+  <programme start="20160801220000 +0300" stop="20160801233000 +0300" channel="AlphaCY">
     <title lang="el">Ski Jumping: Summer Grand Prix in Hinterzarten, Germany</title>
     <desc lang="el">Summer Grand Prix in Hinterzarten, Germany. HS 108(n)</desc>
   </programme>
-  <programme start="20160801233000 +0300" stop="20160802000000 +0300" channel="Alpha">
+  <programme start="20160801233000 +0300" stop="20160802000000 +0300" channel="AlphaCY">
     <title lang="el">Football: Major League Soccer</title>
     <desc lang="el">Major League Soccer. Day 21: Sporting Kansas City (USA) - Portland Timbers (USA)(n)</desc>
   </programme>
-  <programme start="20160802000000 +0300" stop="20160802003000 +0300" channel="Alpha">
+  <programme start="20160802000000 +0300" stop="20160802003000 +0300" channel="AlphaCY">
     <title lang="el">Motorcycling: Pit Stop</title>
     <desc lang="el">Pit Stop(n)</desc>
   </programme>
-  <programme start="20160802003000 +0300" stop="20160802013000 +0300" channel="Alpha">
+  <programme start="20160802003000 +0300" stop="20160802013000 +0300" channel="AlphaCY">
     <title lang="el">Car Racing: Blancpain Endurance Series In Spa-Francorchamps, Belgium</title>
     <desc lang="el">Blancpain Endurance Series in Spa-Francorchamps, Belgium. Review(n)</desc>
   </programme>
-  <programme start="20160802013000 +0300" stop="20160802020000 +0300" channel="Alpha">
+  <programme start="20160802013000 +0300" stop="20160802020000 +0300" channel="AlphaCY">
     <title lang="el">Car Racing: F3 European Championship In Spa-Francorchamps, Belgium</title>
     <desc lang="el">F3 European Championship in Spa-Francorchamps, Belgium(n)</desc>
   </programme>
-  <programme start="20160802020000 +0300" stop="20160802023000 +0300" channel="Alpha">
+  <programme start="20160802020000 +0300" stop="20160802023000 +0300" channel="AlphaCY">
     <title lang="el">Swimming: European Championship In London, United Kingdom</title>
     <desc lang="el">European Championship in London, United Kingdom. Best Of(n)</desc>
   </programme>
-  <programme start="20160802023000 +0300" stop="20160802030000 +0300" channel="Alpha">
+  <programme start="20160802023000 +0300" stop="20160802030000 +0300" channel="AlphaCY">
     <title lang="el">All Sports: Sports Insiders</title>
     <desc lang="el">Sports Insiders(n)</desc>
   </programme>
-  <programme start="20160802030000 +0300" stop="20160802040000 +0300" channel="Alpha">
+  <programme start="20160802030000 +0300" stop="20160802040000 +0300" channel="AlphaCY">
     <title lang="el">All Sports: Watts</title>
     <desc lang="el">Weekly round-up of the bizarre, funny and kooky goings-on in the world of sports(n)</desc>
   </programme>
-  <programme start="20160802040000 +0300" stop="20160802053000 +0300" channel="Alpha">
+  <programme start="20160802040000 +0300" stop="20160802053000 +0300" channel="AlphaCY">
     <title lang="el">Snooker: World Open, China</title>
     <desc lang="el">N/A(n)</desc>
   </programme>
-  <programme start="20160802053000 +0300" stop="20160802070000 +0300" channel="Alpha">
+  <programme start="20160802053000 +0300" stop="20160802070000 +0300" channel="AlphaCY">
     <title lang="el">Football: Major League Soccer</title>
     <desc lang="el">Major League Soccer. Day 21: Seattle Sounders (USA) - Los Angeles Galaxy (USA)(n)</desc>
   </programme>
-  <programme start="20160802070000 +0300" stop="20160802083000 +0300" channel="Alpha">
+  <programme start="20160802070000 +0300" stop="20160802083000 +0300" channel="AlphaCY">
     <title lang="el">Ski Jumping: Summer Grand Prix in Hinterzarten, Germany</title>
     <desc lang="el">Summer Grand Prix in Hinterzarten, Germany. HS 108(n)</desc>
   </programme>
-  <programme start="20160802083000 +0300" stop="20160802093000 +0300" channel="Alpha">
+  <programme start="20160802083000 +0300" stop="20160802093000 +0300" channel="AlphaCY">
     <title lang="el">Snooker: World Open, China</title>
     <desc lang="el">N/A(n)</desc>
   </programme>
-  <programme start="20160802093000 +0300" stop="20160802103000 +0300" channel="Alpha">
+  <programme start="20160802093000 +0300" stop="20160802103000 +0300" channel="AlphaCY">
     <title lang="el">Football: Major League Soccer</title>
     <desc lang="el">Major League Soccer. Day 21: Seattle Sounders (USA) - Los Angeles Galaxy (USA)(n)</desc>
   </programme>
-  <programme start="20160802103000 +0300" stop="20160802113000 +0300" channel="Alpha">
+  <programme start="20160802103000 +0300" stop="20160802113000 +0300" channel="AlphaCY">
     <title lang="el">All Sports: Watts</title>
     <desc lang="el">Weekly round-up of the bizarre, funny and kooky goings-on in the world of sports(n)</desc>
   </programme>
-  <programme start="20160802113000 +0300" stop="20160802130000 +0300" channel="Alpha">
+  <programme start="20160802113000 +0300" stop="20160802130000 +0300" channel="AlphaCY">
     <title lang="el">Football: Uefa European Women's Under-19 Championship In Slovakia</title>
     <desc lang="el">Uefa European Women's Under-19 Championship in Slovakia. Final(n)</desc>
   </programme>
-  <programme start="20160802130000 +0300" stop="20160802140000 +0300" channel="Alpha">
+  <programme start="20160802130000 +0300" stop="20160802140000 +0300" channel="AlphaCY">
     <title lang="el">Ski Jumping: Summer Grand Prix in Hinterzarten, Germany</title>
     <desc lang="el">Summer Grand Prix in Hinterzarten, Germany. HS 108(n)</desc>
   </programme>
-  <programme start="20160802140000 +0300" stop="20160802153000 +0300" channel="Alpha">
+  <programme start="20160802140000 +0300" stop="20160802153000 +0300" channel="AlphaCY">
     <title lang="el">Athletics: European Championship In Amsterdam, Netherlands</title>
     <desc lang="el">European Championship in Amsterdam, Netherlands(n)</desc>
   </programme>
-  <programme start="20160802153000 +0300" stop="20160802163000 +0300" channel="Alpha">
+  <programme start="20160802153000 +0300" stop="20160802163000 +0300" channel="AlphaCY">
     <title lang="el">Weightlifting: European Championship In Forde, Norway</title>
     <desc lang="el">European Championship in Forde, Norway. Men's 105kg(n)</desc>
   </programme>
-  <programme start="20160802163000 +0300" stop="20160802173000 +0300" channel="Alpha">
+  <programme start="20160802163000 +0300" stop="20160802173000 +0300" channel="AlphaCY">
     <title lang="el">Weightlifting: European Championship In Forde, Norway</title>
     <desc lang="el">European Championship in Forde, Norway. Women's +75kg(n)</desc>
   </programme>
-  <programme start="20160802173000 +0300" stop="20160802183000 +0300" channel="Alpha">
+  <programme start="20160802173000 +0300" stop="20160802183000 +0300" channel="AlphaCY">
     <title lang="el">Weightlifting: European Championship In Forde, Norway</title>
     <desc lang="el">European Championship in Forde, Norway. Men's +105kg(n)</desc>
   </programme>
-  <programme start="20160802183000 +0300" stop="20160802190000 +0300" channel="Alpha">
+  <programme start="20160802183000 +0300" stop="20160802190000 +0300" channel="AlphaCY">
     <title lang="el">Swimming: European Championship In London, United Kingdom</title>
     <desc lang="el">European Championship in London, United Kingdom. Best Of(n)</desc>
   </programme>
-  <programme start="20160802190000 +0300" stop="20160802195500 +0300" channel="Alpha">
+  <programme start="20160802190000 +0300" stop="20160802195500 +0300" channel="AlphaCY">
     <title lang="el">Rowing: European Championship In Brandenburg, Germany</title>
     <desc lang="el">European Championship in Brandenburg, Germany. Finals(n)</desc>
   </programme>
-  <programme start="20160802195500 +0300" stop="20160802200000 +0300" channel="Alpha">
+  <programme start="20160802195500 +0300" stop="20160802200000 +0300" channel="AlphaCY">
     <title lang="el">News: Eurosport 2 News</title>
     <desc lang="el">Eurosport 2 News(n)</desc>
   </programme>
-  <programme start="20160802200000 +0300" stop="20160802203000 +0300" channel="Alpha">
+  <programme start="20160802200000 +0300" stop="20160802203000 +0300" channel="AlphaCY">
     <title lang="el">Football: Major League Soccer</title>
     <desc lang="el">Major League Soccer(n)</desc>
   </programme>
-  <programme start="20160802203000 +0300" stop="20160802210000 +0300" channel="Alpha">
+  <programme start="20160802203000 +0300" stop="20160802210000 +0300" channel="AlphaCY">
     <title lang="el">All Sports: Sports Insiders</title>
     <desc lang="el">Sports Insiders(n)</desc>
   </programme>
-  <programme start="20160802210000 +0300" stop="20160802213000 +0300" channel="Alpha">
+  <programme start="20160802210000 +0300" stop="20160802213000 +0300" channel="AlphaCY">
     <title lang="el">Swimming: European Championship In London, United Kingdom</title>
     <desc lang="el">European Championship in London, United Kingdom. Best Of(n)</desc>
   </programme>
-  <programme start="20160802213000 +0300" stop="20160802213500 +0300" channel="Alpha">
+  <programme start="20160802213000 +0300" stop="20160802213500 +0300" channel="AlphaCY">
     <title lang="el">All Sports: Going For Gold</title>
     <desc lang="el">Going For Gold. Going For Gold is a 30-minute programme dedicated to the most fascinating sport's stories of our time. The magazine tells the story of a legend, the quest of an athlete and gives some tips in an exclusive "Tech Talk" segment, including 360 footage(n)</desc>
   </programme>
-  <programme start="20160802213500 +0300" stop="20160802230000 +0300" channel="Alpha">
+  <programme start="20160802213500 +0300" stop="20160802230000 +0300" channel="AlphaCY">
     <title lang="el">Athletics: European Championship In Amsterdam, Netherlands</title>
     <desc lang="el">European Championship in Amsterdam, Netherlands(n)</desc>
   </programme>
-  <programme start="20160802230000 +0300" stop="20160803000000 +0300" channel="Alpha">
+  <programme start="20160802230000 +0300" stop="20160803000000 +0300" channel="AlphaCY">
     <title lang="el">Fencing: European Championship In Torun, Poland</title>
     <desc lang="el">European Championship in Torun, Poland. Individual Final(n)</desc>
   </programme>
-  <programme start="20160803000000 +0300" stop="20160803000000 +0300" channel="Alpha">
+  <programme start="20160803000000 +0300" stop="20160803000000 +0300" channel="AlphaCY">
     <title lang="el">SPORTS LIVE (E) Αθλητικό Ελληνικό Δελτίο</title>
     <desc lang="el">CYPRUS SPORTS(n)</desc>
   </programme>
-  <programme start="20160803000000 +0300" stop="20160803012000 +0300" channel="Alpha">
+  <programme start="20160803000000 +0300" stop="20160803012000 +0300" channel="AlphaCY">
     <title lang="el">SPORTS LIVE (E) Αθλητικό Ελληνικό Δελτίο</title>
     <desc lang="el">CYPRUS SPORTS(n)</desc>
   </programme>
-  <programme start="20160803012000 +0300" stop="20160803012000 +0300" channel="Alpha">
+  <programme start="20160803012000 +0300" stop="20160803012000 +0300" channel="AlphaCY">
     <title lang="el">BEST OF AIR RACE (Ε)</title>
     <desc lang="el">CYPRUS SPORTS(n)</desc>
   </programme>
-  <programme start="20160803012000 +0300" stop="20160803013000 +0300" channel="Alpha">
+  <programme start="20160803012000 +0300" stop="20160803013000 +0300" channel="AlphaCY">
     <title lang="el">BEST OF AIR RACE (Ε)</title>
     <desc lang="el">CYPRUS SPORTS(n)</desc>
   </programme>
-  <programme start="20160803013000 +0300" stop="20160803013000 +0300" channel="Alpha">
+  <programme start="20160803013000 +0300" stop="20160803013000 +0300" channel="AlphaCY">
     <title lang="el">BEST OF ARCHERY (Ε)</title>
     <desc lang="el">CYPRUS SPORTS(n)</desc>
   </programme>
-  <programme start="20160803013000 +0300" stop="20160803020000 +0300" channel="Alpha">
+  <programme start="20160803013000 +0300" stop="20160803020000 +0300" channel="AlphaCY">
     <title lang="el">BEST OF ARCHERY (Ε)</title>
     <desc lang="el">CYPRUS SPORTS(n)</desc>
   </programme>
-  <programme start="20160803020000 +0300" stop="20160803020000 +0300" channel="Alpha">
+  <programme start="20160803020000 +0300" stop="20160803020000 +0300" channel="AlphaCY">
     <title lang="el">Hunting &amp; FISHING (Ε)</title>
     <desc lang="el">CYPRUS SPORTS(n)</desc>
   </programme>
-  <programme start="20160803020000 +0300" stop="20160803023000 +0300" channel="Alpha">
+  <programme start="20160803020000 +0300" stop="20160803023000 +0300" channel="AlphaCY">
     <title lang="el">Hunting &amp; FISHING (Ε)</title>
     <desc lang="el">CYPRUS SPORTS(n)</desc>
   </programme>
-  <programme start="20160803023000 +0300" stop="20160803023000 +0300" channel="Alpha">
+  <programme start="20160803023000 +0300" stop="20160803023000 +0300" channel="AlphaCY">
     <title lang="el">EXTREME CAR 4X4 (E)</title>
     <desc lang="el">CYPRUS SPORTS(n)</desc>
   </programme>
-  <programme start="20160803023000 +0300" stop="20160803043000 +0300" channel="Alpha">
+  <programme start="20160803023000 +0300" stop="20160803043000 +0300" channel="AlphaCY">
     <title lang="el">EXTREME CAR 4X4 (E)</title>
     <desc lang="el">CYPRUS SPORTS(n)</desc>
   </programme>
-  <programme start="20160803043000 +0300" stop="20160803043000 +0300" channel="Alpha">
+  <programme start="20160803043000 +0300" stop="20160803043000 +0300" channel="AlphaCY">
     <title lang="el">RED BULL SHOW (Ε)</title>
     <desc lang="el">CYPRUS SPORTS(n)</desc>
   </programme>
-  <programme start="20160803043000 +0300" stop="20160803050000 +0300" channel="Alpha">
+  <programme start="20160803043000 +0300" stop="20160803050000 +0300" channel="AlphaCY">
     <title lang="el">RED BULL SHOW (Ε)</title>
     <desc lang="el">CYPRUS SPORTS(n)</desc>
   </programme>
-  <programme start="20160803050000 +0300" stop="20160803050000 +0300" channel="Alpha">
+  <programme start="20160803050000 +0300" stop="20160803050000 +0300" channel="AlphaCY">
     <title lang="el">BEST OF EMOTIONS (Ε)</title>
     <desc lang="el">CYPRUS SPORTS(n)</desc>
   </programme>
-  <programme start="20160803050000 +0300" stop="20160803053000 +0300" channel="Alpha">
+  <programme start="20160803050000 +0300" stop="20160803053000 +0300" channel="AlphaCY">
     <title lang="el">BEST OF EMOTIONS (Ε)</title>
     <desc lang="el">CYPRUS SPORTS(n)</desc>
   </programme>
-  <programme start="20160803053000 +0300" stop="20160803053000 +0300" channel="Alpha">
+  <programme start="20160803053000 +0300" stop="20160803053000 +0300" channel="AlphaCY">
     <title lang="el">SPORTS LIVE (E) Αθλητικό Ελληνικό Δελτίο</title>
     <desc lang="el">CYPRUS SPORTS(n)</desc>
   </programme>
-  <programme start="20160803053000 +0300" stop="20160803062000 +0300" channel="Alpha">
+  <programme start="20160803053000 +0300" stop="20160803062000 +0300" channel="AlphaCY">
     <title lang="el">SPORTS LIVE (E) Αθλητικό Ελληνικό Δελτίο</title>
     <desc lang="el">CYPRUS SPORTS(n)</desc>
   </programme>
-  <programme start="20160803062000 +0300" stop="20160803062000 +0300" channel="Alpha">
+  <programme start="20160803062000 +0300" stop="20160803062000 +0300" channel="AlphaCY">
     <title lang="el">BEST OF AIR RACE (Ε)</title>
     <desc lang="el">CYPRUS SPORTS(n)</desc>
   </programme>
-  <programme start="20160803062000 +0300" stop="20160803070000 +0300" channel="Alpha">
+  <programme start="20160803062000 +0300" stop="20160803070000 +0300" channel="AlphaCY">
     <title lang="el">BEST OF AIR RACE (Ε)</title>
     <desc lang="el">CYPRUS SPORTS(n)</desc>
   </programme>
-  <programme start="20160803070000 +0300" stop="20160803070000 +0300" channel="Alpha">
+  <programme start="20160803070000 +0300" stop="20160803070000 +0300" channel="AlphaCY">
     <title lang="el">CYCLING SUNSHINE CUP (Ε)</title>
     <desc lang="el">CYPRUS SPORTS(n)</desc>
   </programme>
-  <programme start="20160803070000 +0300" stop="20160803083000 +0300" channel="Alpha">
+  <programme start="20160803070000 +0300" stop="20160803083000 +0300" channel="AlphaCY">
     <title lang="el">CYCLING SUNSHINE CUP (Ε)</title>
     <desc lang="el">CYPRUS SPORTS(n)</desc>
   </programme>
-  <programme start="20160803083000 +0300" stop="20160803083000 +0300" channel="Alpha">
+  <programme start="20160803083000 +0300" stop="20160803083000 +0300" channel="AlphaCY">
     <title lang="el">BEST OF BOWLING (Ε)</title>
     <desc lang="el">CYPRUS SPORTS(n)</desc>
   </programme>
-  <programme start="20160803083000 +0300" stop="20160803093000 +0300" channel="Alpha">
+  <programme start="20160803083000 +0300" stop="20160803093000 +0300" channel="AlphaCY">
     <title lang="el">BEST OF BOWLING (Ε)</title>
     <desc lang="el">CYPRUS SPORTS(n)</desc>
   </programme>
-  <programme start="20160803093000 +0300" stop="20160803093000 +0300" channel="Alpha">
+  <programme start="20160803093000 +0300" stop="20160803093000 +0300" channel="AlphaCY">
     <title lang="el">SPORTS LIVE (E) Αθλητικό Ελληνικό Δελτίο</title>
     <desc lang="el">CYPRUS SPORTS(n)</desc>
   </programme>
-  <programme start="20160803093000 +0300" stop="20160803102000 +0300" channel="Alpha">
+  <programme start="20160803093000 +0300" stop="20160803102000 +0300" channel="AlphaCY">
     <title lang="el">SPORTS LIVE (E) Αθλητικό Ελληνικό Δελτίο</title>
     <desc lang="el">CYPRUS SPORTS(n)</desc>
   </programme>
-  <programme start="20160803102000 +0300" stop="20160803102000 +0300" channel="Alpha">
+  <programme start="20160803102000 +0300" stop="20160803102000 +0300" channel="AlphaCY">
     <title lang="el">EXTREME CAR 4X4 (E)</title>
     <desc lang="el">CYPRUS SPORTS(n)</desc>
   </programme>
-  <programme start="20160803102000 +0300" stop="20160803133000 +0300" channel="Alpha">
+  <programme start="20160803102000 +0300" stop="20160803133000 +0300" channel="AlphaCY">
     <title lang="el">EXTREME CAR 4X4 (E)</title>
     <desc lang="el">CYPRUS SPORTS(n)</desc>
   </programme>
-  <programme start="20160803133000 +0300" stop="20160803133000 +0300" channel="Alpha">
+  <programme start="20160803133000 +0300" stop="20160803133000 +0300" channel="AlphaCY">
     <title lang="el">BEST OF DRIFT RACE (Ε)</title>
     <desc lang="el">CYPRUS SPORTS(n)</desc>
   </programme>
-  <programme start="20160803133000 +0300" stop="20160803163500 +0300" channel="Alpha">
+  <programme start="20160803133000 +0300" stop="20160803163500 +0300" channel="AlphaCY">
     <title lang="el">BEST OF DRIFT RACE (Ε)</title>
     <desc lang="el">CYPRUS SPORTS(n)</desc>
   </programme>
-  <programme start="20160803163500 +0300" stop="20160803163500 +0300" channel="Alpha">
+  <programme start="20160803163500 +0300" stop="20160803163500 +0300" channel="AlphaCY">
     <title lang="el">MUAI THAI  ΑΓΩΝΑΣ ΠΥΓΜΑΧΙΑΣ (Ε)</title>
     <desc lang="el">CYPRUS SPORTS(n)</desc>
   </programme>
-  <programme start="20160803163500 +0300" stop="20160803183000 +0300" channel="Alpha">
+  <programme start="20160803163500 +0300" stop="20160803183000 +0300" channel="AlphaCY">
     <title lang="el">MUAI THAI  ΑΓΩΝΑΣ ΠΥΓΜΑΧΙΑΣ (Ε)</title>
     <desc lang="el">CYPRUS SPORTS(n)</desc>
   </programme>
-  <programme start="20160803183000 +0300" stop="20160803183000 +0300" channel="Alpha">
+  <programme start="20160803183000 +0300" stop="20160803183000 +0300" channel="AlphaCY">
     <title lang="el">ΣΤΙΓΜΙΟΤΥΠΑ ΙΠΠΟΔΡΟΜΟΥ (ΤΕΤΑΡΤΗΣ)</title>
     <desc lang="el">CYPRUS SPORTS(n)</desc>
   </programme>
-  <programme start="20160803183000 +0300" stop="20160803191000 +0300" channel="Alpha">
+  <programme start="20160803183000 +0300" stop="20160803191000 +0300" channel="AlphaCY">
     <title lang="el">ΣΤΙΓΜΙΟΤΥΠΑ ΙΠΠΟΔΡΟΜΟΥ (ΤΕΤΑΡΤΗΣ)</title>
     <desc lang="el">CYPRUS SPORTS(n)</desc>
   </programme>
-  <programme start="20160803191000 +0300" stop="20160803191000 +0300" channel="Alpha">
+  <programme start="20160803191000 +0300" stop="20160803191000 +0300" channel="AlphaCY">
     <title lang="el">CYCLING BEST STREET  (Ε)</title>
     <desc lang="el">CYPRUS SPORTS(n)</desc>
   </programme>
-  <programme start="20160803191000 +0300" stop="20160803203000 +0300" channel="Alpha">
+  <programme start="20160803191000 +0300" stop="20160803203000 +0300" channel="AlphaCY">
     <title lang="el">CYCLING BEST STREET  (Ε)</title>
     <desc lang="el">CYPRUS SPORTS(n)</desc>
   </programme>
-  <programme start="20160803203000 +0300" stop="20160803203000 +0300" channel="Alpha">
+  <programme start="20160803203000 +0300" stop="20160803203000 +0300" channel="AlphaCY">
     <title lang="el">SPORTS LIVE (Ε) Αθλητικό Ελληνικό Δελτίο</title>
     <desc lang="el">CYPRUS SPORTS(n)</desc>
   </programme>
-  <programme start="20160803203000 +0300" stop="20160803212000 +0300" channel="Alpha">
+  <programme start="20160803203000 +0300" stop="20160803212000 +0300" channel="AlphaCY">
     <title lang="el">SPORTS LIVE (Ε) Αθλητικό Ελληνικό Δελτίο</title>
     <desc lang="el">CYPRUS SPORTS(n)</desc>
   </programme>
-  <programme start="20160803212000 +0300" stop="20160803212000 +0300" channel="Alpha">
+  <programme start="20160803212000 +0300" stop="20160803212000 +0300" channel="AlphaCY">
     <title lang="el">BEST OF DRIFT MOMENTS (Ε)</title>
     <desc lang="el">CYPRUS SPORTS(n)</desc>
   </programme>
-  <programme start="20160803212000 +0300" stop="20160803220000 +0300" channel="Alpha">
+  <programme start="20160803212000 +0300" stop="20160803220000 +0300" channel="AlphaCY">
     <title lang="el">BEST OF DRIFT MOMENTS (Ε)</title>
     <desc lang="el">CYPRUS SPORTS(n)</desc>
   </programme>
-  <programme start="20160803220000 +0300" stop="20160803220000 +0300" channel="Alpha">
+  <programme start="20160803220000 +0300" stop="20160803220000 +0300" channel="AlphaCY">
     <title lang="el">ΣΤΙΓΜΙΟΤΥΠΑ ΙΠΠΟΔΡΟΜΟΥ (ΤΕΤΑΡΤΗΣ) (Ε)</title>
     <desc lang="el">CYPRUS SPORTS(n)</desc>
   </programme>
-  <programme start="20160803220000 +0300" stop="20160803224500 +0300" channel="Alpha">
+  <programme start="20160803220000 +0300" stop="20160803224500 +0300" channel="AlphaCY">
     <title lang="el">ΣΤΙΓΜΙΟΤΥΠΑ ΙΠΠΟΔΡΟΜΟΥ (ΤΕΤΑΡΤΗΣ) (Ε)</title>
     <desc lang="el">CYPRUS SPORTS(n)</desc>
   </programme>
-  <programme start="20160803224500 +0300" stop="20160803224500 +0300" channel="Alpha">
+  <programme start="20160803224500 +0300" stop="20160803224500 +0300" channel="AlphaCY">
     <title lang="el">AUTOACTION (E)(ΕΚΠΟΜΠΗ ΑΥΤΟΚΙΝΗΤΟΥ)</title>
     <desc lang="el">CYPRUS SPORTS(n)</desc>
   </programme>
-  <programme start="20160803224500 +0300" stop="20160803234000 +0300" channel="Alpha">
+  <programme start="20160803224500 +0300" stop="20160803234000 +0300" channel="AlphaCY">
     <title lang="el">AUTOACTION (E)(ΕΚΠΟΜΠΗ ΑΥΤΟΚΙΝΗΤΟΥ)</title>
     <desc lang="el">CYPRUS SPORTS(n)</desc>
   </programme>
-  <programme start="20160803234000 +0300" stop="20160803234000 +0300" channel="Alpha">
+  <programme start="20160803234000 +0300" stop="20160803234000 +0300" channel="AlphaCY">
     <title lang="el">MIXANOKINHTOΣ ΑΘΛΗΤΙΣΜΟΣ (Ε)</title>
     <desc lang="el">CYPRUS SPORTS(n)</desc>
   </programme>

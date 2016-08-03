@@ -91,7 +91,7 @@ rtmp://live.streams.ovh/cannali/cannali
 mmsh://wpso.com:200/music
 #EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/piGhf3m.png",TILEMOUSIKI 2
 http://iphone-streaming.ustream.tv/uhls/18655753/streams/live/iphone/playlist.m3u8
-#EXTINF:0, group-title="ΜΟΥΣΙΚΗ"tvg-id="Madcy" tvg-logo="http://i.imgur.com/imgHmLP.png",MAD CY
+#EXTINF:0, group-title="ΜΟΥΣΙΚΗ" tvg-logo="http://i.imgur.com/imgHmLP.png",MAD CY
 rtmp://eradio.networksolutions.com.cy/live/livestream
 #EXTINF:0, group-title="CINEMA" tvg-logo="http://i.imgur.com/cF6mgTb.png",MPAXALO TV
 http://xmpaxalotv1x.api.channel.livestream.com/3.0/playlist.m3u8
@@ -145,7 +145,7 @@ http://iphone-streaming.ustream.tv/uhls/14955467/streams/live/iphone/playlist.m3
 http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/MFRF94w.png",BHMA TV
 http://iphone-streaming.ustream.tv/uhls/10731431/streams/live/iphone/playlist.m3u8
-#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/7oUMRVj.png",CORFU CHANNEL
+#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"tvg-id="CORFU" tvg-logo="http://i.imgur.com/7oUMRVj.png",CORFU CHANNEL
 http://iphone-streaming.ustream.tv/uhls/5317295/streams/live/iphon/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"tvg-id="EPIRUS" tvg-logo="http://i.imgur.com/Gi8YadR.png",EPIRUS TV1
 http://iphone-streaming.ustream.tv/uhls/158633/streams/live/iphon/playlist.m3u8
@@ -165,7 +165,7 @@ http://138.201.57.212:1935/best/myStream/playlist.m3u8
 https://www.youtube.com/watch?v=txPl0fKQqrc
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/lFa1KuV.gif",SUPER B
 http://iphone-streaming.ustream.tv/uhls/13351318/streams/live/iphon/playlist.m3u8
-#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/jYdwvZB.png",AIGAIO TV
+#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"tvg-id="AIGAIOTV" tvg-logo="http://i.imgur.com/jYdwvZB.png",AIGAIO TV
 http://xaigaiotelevisionx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/7o98X3F.png",OMEGA TV
 http://stream2.omegatv.net/hls-live/livepkgr/_definst_/liveevent/omegatv.m3u8

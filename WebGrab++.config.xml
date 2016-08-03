@@ -118,6 +118,7 @@ If no value is entered here the individual 'update' values from the channellist 
    <channel update="f" site="openwebif" site_id="1:0:1:44E:6:AA:5A0000:0:0:0:" xmltv_id="BEST">BEST</channel>
    <channel update="f" site="openwebif" site_id="1:0:1:450:6:AA:5A0000:0:0:0:" xmltv_id="AIGAIOTV">AIGAIOTV</channel>
    <channel update="f" site="openwebif" site_id="1:0:1:400:6:AA:5A0000:0:0:0:" xmltv_id="DIKTIOY">DIKTIOY</channel>
+   <channel update="f" site="openwebif" site_id="1:0:1:44F:6:AA:5A0000:0:0:0:" xmltv_id="CORFU">CORFU</channel>
    <channel update="f" site="openwebif" site_id="1:0:1:E9:170C:9E:5A0000:0:0:0:" xmltv_id="EBS">EBS</channel>
    <channel update="f" site="openwebif" site_id="1:0:1:1B1:170C:9E:5A0000:0:0:0:" xmltv_id="EBS+">EBS</channel>
    <channel update="f" site="openwebif" site_id="1:0:1:438:2:AA:5A0000:0:0:0:" xmltv_id="EURONEWS">EURONEWS</channel>

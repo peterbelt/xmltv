@@ -90,6 +90,11 @@
     <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=2607663&amp;t=1463667096075" />
     <url>http://www.cosmote.gr</url>
   </channel>
+  <channel id="Euronews">
+    <display-name lang="el">Euronews</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=4025985&amp;t=1465395553338" />
+    <url>http://www.cosmote.gr</url>
+  </channel>
   <channel id="Κρήτη TV">
     <display-name lang="el">Κρήτη TV</display-name>
     <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=1220028&amp;t=1461614622549" />
@@ -9185,6 +9190,1134 @@
   <programme start="20160821193500 -0300" stop="20160821213000 -0300" channel="ΕΡΤ3">
     <title lang="el">Ρίο2016-Πάλη(Ζ)</title>
     <category lang="el">Αθλητικά</category>
+  </programme>
+  <programme start="20160815003000 -0300" stop="20160815010000 -0300" channel="Euronews">
+    <title lang="el">PrimeEditionWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160815010000 -0300" stop="20160815013000 -0300" channel="Euronews">
+    <title lang="el">PrimeEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160815013000 -0300" stop="20160815020000 -0300" channel="Euronews">
+    <title lang="el">PrimeEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160815020000 -0300" stop="20160815023000 -0300" channel="Euronews">
+    <title lang="el">LateEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160815023000 -0300" stop="20160815030000 -0300" channel="Euronews">
+    <title lang="el">LateEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160815030000 -0300" stop="20160815033000 -0300" channel="Euronews">
+    <title lang="el">LateEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160815033000 -0300" stop="20160815040000 -0300" channel="Euronews">
+    <title lang="el">LateEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160815040000 -0300" stop="20160815043000 -0300" channel="Euronews">
+    <title lang="el">LateEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160815043000 -0300" stop="20160815110000 -0300" channel="Euronews">
+    <title lang="el">LateEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160815110000 -0300" stop="20160815113000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160815113000 -0300" stop="20160815120000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160815120000 -0300" stop="20160815123000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160815123000 -0300" stop="20160815130000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160815130000 -0300" stop="20160815140000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160815140000 -0300" stop="20160815150000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160815150000 -0300" stop="20160815153000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160815153000 -0300" stop="20160815160000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160815160000 -0300" stop="20160815163000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160815163000 -0300" stop="20160815170000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160815170000 -0300" stop="20160815173000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160815173000 -0300" stop="20160815180000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160815180000 -0300" stop="20160815190000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160815190000 -0300" stop="20160815193000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160815193000 -0300" stop="20160815200000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160815200000 -0300" stop="20160815203000 -0300" channel="Euronews">
+    <title lang="el">PrimeEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160815203000 -0300" stop="20160815210000 -0300" channel="Euronews">
+    <title lang="el">PrimeEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160815210000 -0300" stop="20160815213000 -0300" channel="Euronews">
+    <title lang="el">PrimeEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160815213000 -0300" stop="20160815220000 -0300" channel="Euronews">
+    <title lang="el">PrimeEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160815220000 -0300" stop="20160815230000 -0300" channel="Euronews">
+    <title lang="el">PrimeEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160815230000 -0300" stop="20160815233000 -0300" channel="Euronews">
+    <title lang="el">PrimeEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160815233000 -0300" stop="20160816003000 -0300" channel="Euronews">
+    <title lang="el">PrimeEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160816003000 -0300" stop="20160816010000 -0300" channel="Euronews">
+    <title lang="el">PrimeEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160816010000 -0300" stop="20160816013000 -0300" channel="Euronews">
+    <title lang="el">PrimeEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160816013000 -0300" stop="20160816020000 -0300" channel="Euronews">
+    <title lang="el">PrimeEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160816020000 -0300" stop="20160816023000 -0300" channel="Euronews">
+    <title lang="el">LateEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160816023000 -0300" stop="20160816030000 -0300" channel="Euronews">
+    <title lang="el">LateEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160816030000 -0300" stop="20160816033000 -0300" channel="Euronews">
+    <title lang="el">LateEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160816033000 -0300" stop="20160816040000 -0300" channel="Euronews">
+    <title lang="el">LateEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160816040000 -0300" stop="20160816043000 -0300" channel="Euronews">
+    <title lang="el">LateEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160816043000 -0300" stop="20160816050000 -0300" channel="Euronews">
+    <title lang="el">LateEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160816050000 -0300" stop="20160816060000 -0300" channel="Euronews">
+    <title lang="el">AllNewsEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160816060000 -0300" stop="20160816070000 -0300" channel="Euronews">
+    <title lang="el">AllNewsEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160816070000 -0300" stop="20160816080000 -0300" channel="Euronews">
+    <title lang="el">AllNewsEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160816080000 -0300" stop="20160816090000 -0300" channel="Euronews">
+    <title lang="el">AllNewsEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160816090000 -0300" stop="20160816100000 -0300" channel="Euronews">
+    <title lang="el">AllNewsEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160816100000 -0300" stop="20160816110000 -0300" channel="Euronews">
+    <title lang="el">AllNewsEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160816110000 -0300" stop="20160816113000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160816113000 -0300" stop="20160816120000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160816120000 -0300" stop="20160816123000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160816123000 -0300" stop="20160816130000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160816130000 -0300" stop="20160816133000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160816133000 -0300" stop="20160816140000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160816140000 -0300" stop="20160816143000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160816143000 -0300" stop="20160816150000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160816150000 -0300" stop="20160816160000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160816160000 -0300" stop="20160816163000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160816163000 -0300" stop="20160816170000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160816170000 -0300" stop="20160816173000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160816173000 -0300" stop="20160816183000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160816183000 -0300" stop="20160816190000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160816190000 -0300" stop="20160816193000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160816193000 -0300" stop="20160816200000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160816200000 -0300" stop="20160816203000 -0300" channel="Euronews">
+    <title lang="el">PrimeEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160816203000 -0300" stop="20160816210000 -0300" channel="Euronews">
+    <title lang="el">PrimeEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160816210000 -0300" stop="20160816213000 -0300" channel="Euronews">
+    <title lang="el">PrimeEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160816213000 -0300" stop="20160816220000 -0300" channel="Euronews">
+    <title lang="el">PrimeEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160816220000 -0300" stop="20160816223000 -0300" channel="Euronews">
+    <title lang="el">PrimeEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160816223000 -0300" stop="20160816230000 -0300" channel="Euronews">
+    <title lang="el">PrimeEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160816230000 -0300" stop="20160816233000 -0300" channel="Euronews">
+    <title lang="el">PrimeEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160816233000 -0300" stop="20160817003000 -0300" channel="Euronews">
+    <title lang="el">PrimeEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160817003000 -0300" stop="20160817010000 -0300" channel="Euronews">
+    <title lang="el">PrimeEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160817010000 -0300" stop="20160817013000 -0300" channel="Euronews">
+    <title lang="el">PrimeEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160817013000 -0300" stop="20160817020000 -0300" channel="Euronews">
+    <title lang="el">PrimeEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160817020000 -0300" stop="20160817023000 -0300" channel="Euronews">
+    <title lang="el">LateEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160817023000 -0300" stop="20160817030000 -0300" channel="Euronews">
+    <title lang="el">LateEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160817030000 -0300" stop="20160817033000 -0300" channel="Euronews">
+    <title lang="el">LateEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160817033000 -0300" stop="20160817040000 -0300" channel="Euronews">
+    <title lang="el">LateEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160817040000 -0300" stop="20160817043000 -0300" channel="Euronews">
+    <title lang="el">LateEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160817043000 -0300" stop="20160817050000 -0300" channel="Euronews">
+    <title lang="el">LateEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160817050000 -0300" stop="20160817053000 -0300" channel="Euronews">
+    <title lang="el">AllNewsEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160817053000 -0300" stop="20160817060000 -0300" channel="Euronews">
+    <title lang="el">AllNewsEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160817060000 -0300" stop="20160817063000 -0300" channel="Euronews">
+    <title lang="el">AllNewsEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160817063000 -0300" stop="20160817070000 -0300" channel="Euronews">
+    <title lang="el">AllNewsEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160817070000 -0300" stop="20160817080000 -0300" channel="Euronews">
+    <title lang="el">AllNewsEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160817080000 -0300" stop="20160817083000 -0300" channel="Euronews">
+    <title lang="el">AllNewsEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160817083000 -0300" stop="20160817090000 -0300" channel="Euronews">
+    <title lang="el">AllNewsEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160817090000 -0300" stop="20160817093000 -0300" channel="Euronews">
+    <title lang="el">AllNewsEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160817093000 -0300" stop="20160817100000 -0300" channel="Euronews">
+    <title lang="el">AllNewsEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160817100000 -0300" stop="20160817103000 -0300" channel="Euronews">
+    <title lang="el">AllNewsEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160817103000 -0300" stop="20160817110000 -0300" channel="Euronews">
+    <title lang="el">AllNewsEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160817110000 -0300" stop="20160817113000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160817113000 -0300" stop="20160817120000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160817120000 -0300" stop="20160817123000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160817123000 -0300" stop="20160817130000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160817130000 -0300" stop="20160817133000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160817133000 -0300" stop="20160817143000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160817143000 -0300" stop="20160817150000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160817150000 -0300" stop="20160817153000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160817153000 -0300" stop="20160817160000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160817160000 -0300" stop="20160817170000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160817170000 -0300" stop="20160817173000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160817173000 -0300" stop="20160817180000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160817180000 -0300" stop="20160817183000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160817183000 -0300" stop="20160817190000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160817190000 -0300" stop="20160817193000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160817193000 -0300" stop="20160817200000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160817200000 -0300" stop="20160817203000 -0300" channel="Euronews">
+    <title lang="el">PrimeEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160817203000 -0300" stop="20160817210000 -0300" channel="Euronews">
+    <title lang="el">PrimeEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160817210000 -0300" stop="20160817213000 -0300" channel="Euronews">
+    <title lang="el">PrimeEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160817213000 -0300" stop="20160817220000 -0300" channel="Euronews">
+    <title lang="el">PrimeEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160817220000 -0300" stop="20160817223000 -0300" channel="Euronews">
+    <title lang="el">PrimeEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160817223000 -0300" stop="20160817230000 -0300" channel="Euronews">
+    <title lang="el">PrimeEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160817230000 -0300" stop="20160817233000 -0300" channel="Euronews">
+    <title lang="el">PrimeEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160817233000 -0300" stop="20160818003000 -0300" channel="Euronews">
+    <title lang="el">PrimeEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160818003000 -0300" stop="20160818010000 -0300" channel="Euronews">
+    <title lang="el">PrimeEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160818010000 -0300" stop="20160818013000 -0300" channel="Euronews">
+    <title lang="el">PrimeEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160818013000 -0300" stop="20160818020000 -0300" channel="Euronews">
+    <title lang="el">PrimeEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160818020000 -0300" stop="20160818023000 -0300" channel="Euronews">
+    <title lang="el">LateEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160818023000 -0300" stop="20160818030000 -0300" channel="Euronews">
+    <title lang="el">LateEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160818030000 -0300" stop="20160818033000 -0300" channel="Euronews">
+    <title lang="el">LateEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160818033000 -0300" stop="20160818040000 -0300" channel="Euronews">
+    <title lang="el">LateEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160818040000 -0300" stop="20160818043000 -0300" channel="Euronews">
+    <title lang="el">LateEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160818043000 -0300" stop="20160818050000 -0300" channel="Euronews">
+    <title lang="el">LateEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160818050000 -0300" stop="20160818053000 -0300" channel="Euronews">
+    <title lang="el">AllNewsEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160818053000 -0300" stop="20160818060000 -0300" channel="Euronews">
+    <title lang="el">AllNewsEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160818060000 -0300" stop="20160818063000 -0300" channel="Euronews">
+    <title lang="el">AllNewsEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160818063000 -0300" stop="20160818070000 -0300" channel="Euronews">
+    <title lang="el">AllNewsEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160818070000 -0300" stop="20160818080000 -0300" channel="Euronews">
+    <title lang="el">AllNewsEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160818080000 -0300" stop="20160818083000 -0300" channel="Euronews">
+    <title lang="el">AllNewsEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160818083000 -0300" stop="20160818090000 -0300" channel="Euronews">
+    <title lang="el">AllNewsEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160818090000 -0300" stop="20160818093000 -0300" channel="Euronews">
+    <title lang="el">AllNewsEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160818093000 -0300" stop="20160818100000 -0300" channel="Euronews">
+    <title lang="el">AllNewsEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160818100000 -0300" stop="20160818103000 -0300" channel="Euronews">
+    <title lang="el">AllNewsEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160818103000 -0300" stop="20160818110000 -0300" channel="Euronews">
+    <title lang="el">AllNewsEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160818110000 -0300" stop="20160818113000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160818113000 -0300" stop="20160818120000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160818120000 -0300" stop="20160818130000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160818130000 -0300" stop="20160818133000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160818133000 -0300" stop="20160818140000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160818140000 -0300" stop="20160818143000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160818143000 -0300" stop="20160818150000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160818150000 -0300" stop="20160818153000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160818153000 -0300" stop="20160818160000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160818160000 -0300" stop="20160818163000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160818163000 -0300" stop="20160818173000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160818173000 -0300" stop="20160818180000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160818180000 -0300" stop="20160818183000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160818183000 -0300" stop="20160818190000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160818190000 -0300" stop="20160818193000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160818193000 -0300" stop="20160818200000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160818200000 -0300" stop="20160818203000 -0300" channel="Euronews">
+    <title lang="el">PrimeEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160818203000 -0300" stop="20160818210000 -0300" channel="Euronews">
+    <title lang="el">PrimeEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160818210000 -0300" stop="20160818213000 -0300" channel="Euronews">
+    <title lang="el">PrimeEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160818213000 -0300" stop="20160818220000 -0300" channel="Euronews">
+    <title lang="el">PrimeEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160818220000 -0300" stop="20160818223000 -0300" channel="Euronews">
+    <title lang="el">PrimeEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160818223000 -0300" stop="20160818230000 -0300" channel="Euronews">
+    <title lang="el">PrimeEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160818230000 -0300" stop="20160818233000 -0300" channel="Euronews">
+    <title lang="el">PrimeEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160818233000 -0300" stop="20160819003000 -0300" channel="Euronews">
+    <title lang="el">PrimeEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160819003000 -0300" stop="20160819010000 -0300" channel="Euronews">
+    <title lang="el">PrimeEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160819010000 -0300" stop="20160819013000 -0300" channel="Euronews">
+    <title lang="el">PrimeEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160819013000 -0300" stop="20160819020000 -0300" channel="Euronews">
+    <title lang="el">PrimeEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160819020000 -0300" stop="20160819023000 -0300" channel="Euronews">
+    <title lang="el">LateEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160819023000 -0300" stop="20160819030000 -0300" channel="Euronews">
+    <title lang="el">LateEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160819030000 -0300" stop="20160819033000 -0300" channel="Euronews">
+    <title lang="el">LateEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160819033000 -0300" stop="20160819040000 -0300" channel="Euronews">
+    <title lang="el">LateEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160819040000 -0300" stop="20160819043000 -0300" channel="Euronews">
+    <title lang="el">LateEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160819043000 -0300" stop="20160819050000 -0300" channel="Euronews">
+    <title lang="el">LateEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160819050000 -0300" stop="20160819053000 -0300" channel="Euronews">
+    <title lang="el">AllNewsEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160819053000 -0300" stop="20160819060000 -0300" channel="Euronews">
+    <title lang="el">AllNewsEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160819060000 -0300" stop="20160819063000 -0300" channel="Euronews">
+    <title lang="el">AllNewsEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160819063000 -0300" stop="20160819070000 -0300" channel="Euronews">
+    <title lang="el">AllNewsEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160819070000 -0300" stop="20160819080000 -0300" channel="Euronews">
+    <title lang="el">AllNewsEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160819080000 -0300" stop="20160819083000 -0300" channel="Euronews">
+    <title lang="el">AllNewsEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160819083000 -0300" stop="20160819090000 -0300" channel="Euronews">
+    <title lang="el">AllNewsEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160819090000 -0300" stop="20160819093000 -0300" channel="Euronews">
+    <title lang="el">AllNewsEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160819093000 -0300" stop="20160819100000 -0300" channel="Euronews">
+    <title lang="el">AllNewsEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160819100000 -0300" stop="20160819103000 -0300" channel="Euronews">
+    <title lang="el">AllNewsEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160819103000 -0300" stop="20160819110000 -0300" channel="Euronews">
+    <title lang="el">AllNewsEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160819110000 -0300" stop="20160819113000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160819113000 -0300" stop="20160819120000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160819120000 -0300" stop="20160819123000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160819123000 -0300" stop="20160819130000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160819130000 -0300" stop="20160819133000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160819133000 -0300" stop="20160819140000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160819140000 -0300" stop="20160819143000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160819143000 -0300" stop="20160819150000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160819150000 -0300" stop="20160819153000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160819153000 -0300" stop="20160819160000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160819160000 -0300" stop="20160819163000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160819163000 -0300" stop="20160819170000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160819170000 -0300" stop="20160819173000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160819173000 -0300" stop="20160819180000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160819180000 -0300" stop="20160819183000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160819183000 -0300" stop="20160819190000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160819190000 -0300" stop="20160819193000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160819193000 -0300" stop="20160819200000 -0300" channel="Euronews">
+    <title lang="el">NewsoftheDay</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160819200000 -0300" stop="20160819203000 -0300" channel="Euronews">
+    <title lang="el">PrimeEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160819203000 -0300" stop="20160819210000 -0300" channel="Euronews">
+    <title lang="el">PrimeEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160819210000 -0300" stop="20160819220000 -0300" channel="Euronews">
+    <title lang="el">PrimeEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160819220000 -0300" stop="20160819223000 -0300" channel="Euronews">
+    <title lang="el">PrimeEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160819223000 -0300" stop="20160819230000 -0300" channel="Euronews">
+    <title lang="el">PrimeEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160819230000 -0300" stop="20160819233000 -0300" channel="Euronews">
+    <title lang="el">PrimeEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160819233000 -0300" stop="20160820003000 -0300" channel="Euronews">
+    <title lang="el">PrimeEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160820003000 -0300" stop="20160820010000 -0300" channel="Euronews">
+    <title lang="el">PrimeEdition</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160820010000 -0300" stop="20160820013000 -0300" channel="Euronews">
+    <title lang="el">PrimeEditionWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160820013000 -0300" stop="20160820020000 -0300" channel="Euronews">
+    <title lang="el">PrimeEditionWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160820020000 -0300" stop="20160820023000 -0300" channel="Euronews">
+    <title lang="el">LateEditionWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160820023000 -0300" stop="20160820030000 -0300" channel="Euronews">
+    <title lang="el">LateEditionWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160820030000 -0300" stop="20160820033000 -0300" channel="Euronews">
+    <title lang="el">LateEditionWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160820033000 -0300" stop="20160820040000 -0300" channel="Euronews">
+    <title lang="el">LateEditionWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160820040000 -0300" stop="20160820043000 -0300" channel="Euronews">
+    <title lang="el">LateEditionWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160820043000 -0300" stop="20160820050000 -0300" channel="Euronews">
+    <title lang="el">LateEditionWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160820050000 -0300" stop="20160820053000 -0300" channel="Euronews">
+    <title lang="el">EuronewsWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160820053000 -0300" stop="20160820060000 -0300" channel="Euronews">
+    <title lang="el">EuronewsWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160820060000 -0300" stop="20160820063000 -0300" channel="Euronews">
+    <title lang="el">EuronewsWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160820063000 -0300" stop="20160820070000 -0300" channel="Euronews">
+    <title lang="el">EuronewsWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160820070000 -0300" stop="20160820073000 -0300" channel="Euronews">
+    <title lang="el">EuronewsWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160820073000 -0300" stop="20160820080000 -0300" channel="Euronews">
+    <title lang="el">EuronewsWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160820080000 -0300" stop="20160820083000 -0300" channel="Euronews">
+    <title lang="el">EuronewsWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160820083000 -0300" stop="20160820090000 -0300" channel="Euronews">
+    <title lang="el">EuronewsWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160820090000 -0300" stop="20160820093000 -0300" channel="Euronews">
+    <title lang="el">EuronewsWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160820093000 -0300" stop="20160820100000 -0300" channel="Euronews">
+    <title lang="el">EuronewsWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160820100000 -0300" stop="20160820110000 -0300" channel="Euronews">
+    <title lang="el">EuronewsWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160820110000 -0300" stop="20160820113000 -0300" channel="Euronews">
+    <title lang="el">EuronewsWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160820113000 -0300" stop="20160820120000 -0300" channel="Euronews">
+    <title lang="el">EuronewsWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160820120000 -0300" stop="20160820123000 -0300" channel="Euronews">
+    <title lang="el">EuronewsWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160820123000 -0300" stop="20160820130000 -0300" channel="Euronews">
+    <title lang="el">EuronewsWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160820130000 -0300" stop="20160820133000 -0300" channel="Euronews">
+    <title lang="el">EuronewsWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160820133000 -0300" stop="20160820140000 -0300" channel="Euronews">
+    <title lang="el">EuronewsWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160820140000 -0300" stop="20160820143000 -0300" channel="Euronews">
+    <title lang="el">EuronewsWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160820143000 -0300" stop="20160820150000 -0300" channel="Euronews">
+    <title lang="el">EuronewsWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160820150000 -0300" stop="20160820203000 -0300" channel="Euronews">
+    <title lang="el">EuronewsWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160820203000 -0300" stop="20160820210000 -0300" channel="Euronews">
+    <title lang="el">PrimeEditionWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160820210000 -0300" stop="20160820213000 -0300" channel="Euronews">
+    <title lang="el">PrimeEditionWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160820213000 -0300" stop="20160820220000 -0300" channel="Euronews">
+    <title lang="el">PrimeEditionWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160820220000 -0300" stop="20160820223000 -0300" channel="Euronews">
+    <title lang="el">PrimeEditionWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160820223000 -0300" stop="20160820230000 -0300" channel="Euronews">
+    <title lang="el">PrimeEditionWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160820230000 -0300" stop="20160820233000 -0300" channel="Euronews">
+    <title lang="el">PrimeEditionWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160820233000 -0300" stop="20160821003000 -0300" channel="Euronews">
+    <title lang="el">PrimeEditionWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160821003000 -0300" stop="20160821013000 -0300" channel="Euronews">
+    <title lang="el">PrimeEditionWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160821013000 -0300" stop="20160821020000 -0300" channel="Euronews">
+    <title lang="el">PrimeEditionWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160821020000 -0300" stop="20160821023000 -0300" channel="Euronews">
+    <title lang="el">LateEditionWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160821023000 -0300" stop="20160821030000 -0300" channel="Euronews">
+    <title lang="el">LateEditionWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160821030000 -0300" stop="20160821033000 -0300" channel="Euronews">
+    <title lang="el">LateEditionWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160821033000 -0300" stop="20160821040000 -0300" channel="Euronews">
+    <title lang="el">LateEditionWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160821040000 -0300" stop="20160821043000 -0300" channel="Euronews">
+    <title lang="el">LateEditionWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160821043000 -0300" stop="20160821050000 -0300" channel="Euronews">
+    <title lang="el">LateEditionWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160821050000 -0300" stop="20160821053000 -0300" channel="Euronews">
+    <title lang="el">EuronewsWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160821053000 -0300" stop="20160821060000 -0300" channel="Euronews">
+    <title lang="el">EuronewsWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160821060000 -0300" stop="20160821063000 -0300" channel="Euronews">
+    <title lang="el">EuronewsWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160821063000 -0300" stop="20160821070000 -0300" channel="Euronews">
+    <title lang="el">EuronewsWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160821070000 -0300" stop="20160821073000 -0300" channel="Euronews">
+    <title lang="el">EuronewsWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160821073000 -0300" stop="20160821080000 -0300" channel="Euronews">
+    <title lang="el">EuronewsWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160821080000 -0300" stop="20160821083000 -0300" channel="Euronews">
+    <title lang="el">EuronewsWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160821083000 -0300" stop="20160821093000 -0300" channel="Euronews">
+    <title lang="el">EuronewsWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160821093000 -0300" stop="20160821100000 -0300" channel="Euronews">
+    <title lang="el">EuronewsWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160821100000 -0300" stop="20160821103000 -0300" channel="Euronews">
+    <title lang="el">EuronewsWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160821103000 -0300" stop="20160821110000 -0300" channel="Euronews">
+    <title lang="el">EuronewsWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160821110000 -0300" stop="20160821113000 -0300" channel="Euronews">
+    <title lang="el">EuronewsWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160821113000 -0300" stop="20160821120000 -0300" channel="Euronews">
+    <title lang="el">EuronewsWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160821120000 -0300" stop="20160821123000 -0300" channel="Euronews">
+    <title lang="el">EuronewsWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160821123000 -0300" stop="20160821130000 -0300" channel="Euronews">
+    <title lang="el">EuronewsWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160821130000 -0300" stop="20160821133000 -0300" channel="Euronews">
+    <title lang="el">EuronewsWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160821133000 -0300" stop="20160821140000 -0300" channel="Euronews">
+    <title lang="el">EuronewsWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160821140000 -0300" stop="20160821143000 -0300" channel="Euronews">
+    <title lang="el">EuronewsWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160821143000 -0300" stop="20160821153000 -0300" channel="Euronews">
+    <title lang="el">EuronewsWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160821153000 -0300" stop="20160821160000 -0300" channel="Euronews">
+    <title lang="el">EuronewsWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160821160000 -0300" stop="20160821163000 -0300" channel="Euronews">
+    <title lang="el">EuronewsWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160821163000 -0300" stop="20160821170000 -0300" channel="Euronews">
+    <title lang="el">EuronewsWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160821170000 -0300" stop="20160821173000 -0300" channel="Euronews">
+    <title lang="el">EuronewsWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160821173000 -0300" stop="20160821180000 -0300" channel="Euronews">
+    <title lang="el">EuronewsWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160821180000 -0300" stop="20160821183000 -0300" channel="Euronews">
+    <title lang="el">EuronewsWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160821183000 -0300" stop="20160821190000 -0300" channel="Euronews">
+    <title lang="el">EuronewsWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160821190000 -0300" stop="20160821193000 -0300" channel="Euronews">
+    <title lang="el">EuronewsWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160821193000 -0300" stop="20160821200000 -0300" channel="Euronews">
+    <title lang="el">EuronewsWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160821200000 -0300" stop="20160821203000 -0300" channel="Euronews">
+    <title lang="el">PrimeEditionWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160821203000 -0300" stop="20160821210000 -0300" channel="Euronews">
+    <title lang="el">PrimeEditionWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160821210000 -0300" stop="20160821213000 -0300" channel="Euronews">
+    <title lang="el">PrimeEditionWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160821213000 -0300" stop="20160821220000 -0300" channel="Euronews">
+    <title lang="el">PrimeEditionWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160821220000 -0300" stop="20160821223000 -0300" channel="Euronews">
+    <title lang="el">PrimeEditionWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160821223000 -0300" stop="20160821230000 -0300" channel="Euronews">
+    <title lang="el">PrimeEditionWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160821230000 -0300" stop="20160821233000 -0300" channel="Euronews">
+    <title lang="el">PrimeEditionWeek-End</title>
+    <category lang="el">Ενημέρωση</category>
   </programme>
   <programme start="20160815001000 -0300" stop="20160815021500 -0300" channel="Κρήτη TV">
     <title lang="el">MovieTime</title>

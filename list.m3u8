@@ -47,9 +47,9 @@ https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/MAKEDON
 https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/ART.m3u8
 #EXTINF:0, group-title="???????????" tvg-id="ΑΡΤ" tvg-logo="http://i.imgur.com/Comxiil.png",ART BUP
 https://www.youtube.com/watch?v=b3OP-35Pc50
-#EXTINF:0, group-title="?????" tvg-id="EURONEWS tvg-logo="",EURONEWS
+#EXTINF:0, group-title="?????" tvg-id="Euronews" tvg-logo="",EURONEWS
 rtsp://ewns-hls-p-stream.hexaglobe.net/rtpeuronewslive/gr_vidan350_rtp.sdp
-#EXTINF:0, group-title="?????" tvg-id="EURONEWS tvg-logo="",EURONEWS
+#EXTINF:0, group-title="?????" tvg-id="Euronews" tvg-logo="",EURONEWS
 https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/EURONEWS.m3u8
 #EXTINF:0, group-title="???????????"tvg-id="Ertw" tvg-logo="http://i.imgur.com/ZrD6GYb.png",ERT WORLD
 https://www.youtube.com/watch?v=rdlulSBQPp8
@@ -173,17 +173,15 @@ http://94.23.218.186:1935/StartMedia/StartMedia/playlist.m3u8
 http://www.astratv.gr:8090/hls/livestream.m3u8
 #EXTINF:0, group-title="????????????"tvg-id="TRT" tvg-logo="http://i.imgur.com/nAzfWx5.png",TRT TV
 http://xelladalivex.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:0, group-title="????????????" tvg-id="AIGAIOTV"tvg-logo="http://i.imgur.com/K6yJMyU.png",ACHAIA CHANNEL
-http://78.129.184.15:23319/streaming/stream/playlist.m3u8
-#EXTINF:0, group-title="????????????"tvg-id="BEST" tvg-logo="http://i.imgur.com/Hpu1DhY.png",BEST TV
+#EXTINF:0, group-title="????????????"tvg-id="Best TV" tvg-logo="http://i.imgur.com/Hpu1DhY.png",BEST TV
 http://138.201.57.212:1935/best/myStream/playlist.m3u8
 #EXTINF:0, group-title="????????????" tvg-logo="http://i.imgur.com/AZVMgbB.png",DR TV
 https://www.youtube.com/watch?v=txPl0fKQqrc
 #EXTINF:0, group-title="????????????" tvg-logo="http://i.imgur.com/lFa1KuV.gif",SUPER B
 http://iphone-streaming.ustream.tv/uhls/13351318/streams/live/iphon/playlist.m3u8
-#EXTINF:0, group-title="????????????"tvg-id=">Αιγαίο TV" tvg-logo="http://i.imgur.com/jYdwvZB.png",AIGAIO TV
+#EXTINF:0, group-title="????????????"tvg-id="Αιγαίο TV" tvg-logo="http://i.imgur.com/jYdwvZB.png",AIGAIO TV
 http://xaigaiotelevisionx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"tvg-id=">Αιγαίο TV" tvg-logo="http://i.imgur.com/jYdwvZB.png",AIGAIO TV BUP
+#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"tvg-id="Αιγαίο TV" tvg-logo="http://i.imgur.com/jYdwvZB.png",AIGAIO TV BUP
 https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/AIGAIO.m3u8
 #EXTINF:0, group-title="????????????" tvg-logo="http://i.imgur.com/7o98X3F.png",OMEGA TV
 http://stream2.omegatv.net/hls-live/livepkgr/_definst_/liveevent/omegatv.m3u8

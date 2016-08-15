@@ -1,15 +1,15 @@
 ﻿#EXTM3U
-#EXTINF:0, group-title="???????????" tvg-id="EPT1" tvg-logo="http://i.imgur.com/nbS3IKQ.png",ERT1
+#EXTINF:0, group-title="???????????" tvg-id="ΕΡΤ1" tvg-logo="http://i.imgur.com/nbS3IKQ.png",ERT1
 https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/ERT1.m3u8
-#EXTINF:0, group-title="???????????" tvg-id="EPT1" 1tvg-logo="http://i.imgur.com/nbS3IKQ.png",ERT1 BUP 
+#EXTINF:0, group-title="???????????" tvg-id="ΕΡΤ1" 1tvg-logo="http://i.imgur.com/nbS3IKQ.png",ERT1 BUP 
 http://ert-live.hls.adaptive.level3.net/hls-live/ert-channel01/_definst_/live/stream2.m3u8
-#EXTINF:0, group-title="???????????"tvg-id="EPT2" tvg-logo="http://i.imgur.com/gCFl7VI.png",ERT2
+#EXTINF:0, group-title="???????????"tvg-id="ΕΡΤ2" tvg-logo="http://i.imgur.com/gCFl7VI.png",ERT2
 https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/ERT2.m3u8
-#EXTINF:0, group-title="???????????"tvg-id="EPT2" tvg-logo="http://i.imgur.com/gCFl7VI.png",ERT2 BUP 2
+#EXTINF:0, group-title="???????????"tvg-id="ΕΡΤ2" tvg-logo="http://i.imgur.com/gCFl7VI.png",ERT2 BUP 2
 http://ert2-geo-live.hls.adaptive.level3.net/hls-live/ert-channel02geo/_definst_/live/stream2.m3u8
-#EXTINF:0, group-title="???????????" tvg-id="EPT3" tvg-logo="http://i.imgur.com/0Oz56bA.png",ERT3
+#EXTINF:0, group-title="???????????" tvg-id="ΕΡΤ3" tvg-logo="http://i.imgur.com/0Oz56bA.png",ERT3
 https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/ERT3.m3u8
-#EXTINF:0, group-title="???????????" tvg-id="EPT3" tvg-logo="http://i.imgur.com/0Oz56bA.png",ERT3
+#EXTINF:0, group-title="???????????" tvg-id="ΕΡΤ3" tvg-logo="http://i.imgur.com/0Oz56bA.png",ERT3
 http://live.ert.gr:1935/Live-Edge/smil:ert3-live.smil/playlist.m3u8
 #EXTINF:0, group-title="???????????"tvg-id="MEGA" tvg-id="mega" tvg-logo="http://i.imgur.com/tSNcPRn.gif",MEGA
 https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/MEGA.GR.m3u8

@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 #EXTINF:0, group-title="???????????" tvg-id="ΕΡΤ1" tvg-logo="http://i.imgur.com/nbS3IKQ.png",ERT1
-https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/ERT1.m3u8
+http://intervision.cdnvideo.ru/jr_ert_1_gr
 #EXTINF:0, group-title="???????????" tvg-id="ΕΡΤ1" 1tvg-logo="http://i.imgur.com/nbS3IKQ.png",ERT1 BUP 
 http://ert-live.hls.adaptive.level3.net/hls-live/ert-channel01/_definst_/live/stream2.m3u8
 #EXTINF:0, group-title="???????????"tvg-id="ΕΡΤ2" tvg-logo="http://i.imgur.com/gCFl7VI.png",ERT2
